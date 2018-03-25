@@ -30,6 +30,7 @@ with io.open(query + '.' + 'txt', "r", encoding="utf-8") as f1:
             continue
         else:
             final_url=line
+            break
 
 f1.close()
 
@@ -54,10 +55,10 @@ page_html=uClient.read()
 uClient.close()
 page_soup=soup(page_html ,"html.parser")
 #mw-content-text
-containers=page_soup.findAll("div", {"id": "mw-content-text"})
-container=containers[0]
+containers=page_soup.find("div", {"class": "mw-content-text"})
+#container=containers[0]
 #print(container.text)
-a=container.text
+a=containers.text
 #print(soup.prettify(page_soup))
 #a=soup.prettify(page_soup)
 with io.open(query+'1.txt', "a", encoding="utf-8") as f:
