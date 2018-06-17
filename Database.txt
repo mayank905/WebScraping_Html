@@ -1,0 +1,302 @@
+does it support direct video calling feature from dialer,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does the Galaxy S9 Plus support native video calling, i.e. ViLTE (video over LTE) over Jio network Can you make video calls over LTE networks directly through the dialer app Please clarify.,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+it support video calling when data is of....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Video calling can be from any 4G SIM.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+dose it support native video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+does it support video calling and conference call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it have video calling without data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make a direct video call by using jio sim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support volte video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling from contact without any special application,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video calling in this phone without any app yes or no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+have a video recording how in flash in front camera.,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it have video call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support video call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can I do video call without Internet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does this phone support direct video calling without  internet,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it supports 4k video,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '×2160' RETURN n
+is it support volte video calling by using network Without 3rd party app ,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+This mobile support full HD videos or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '1920 ×1080' RETURN n
+Direct video call...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+This phone work 2k videos or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '2048 ×' RETURN n
+panasonic eluga  ray 700 this phone video calling available  yes or no,,,,,,,,MATCH (n:this) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i do video call without internet connection by this phone,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we chat by videocalling without use of headphone on this mobile,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling without any special application,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it record 4K videos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '×2160' OR n.Display CONTAINS '4096' RETURN n
+does it support 360° video,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+does it have native video calling without any third padty app like whatsapp or IMO,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can I do direct video call without third party apps,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+note 5 is having video calling feature r not if NO then in A1 is having that feature r not,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+video camera doesn't work during direct call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+direct video call no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video call support,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make video calls without internet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can we make video calls directly with jio sim.or any other third party app required,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make video call directly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is this provides video call facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does tthis device supports jio video call. because g5s plus does not supports that.,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+it the phone support  direct video call ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support video call through dialer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support native videocall through dialer over jio network ,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is moto x4 support direct video calling without using net,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i do direct video call through jio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support default video call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it have direct video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+inbuilt video calling with jio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it have video call option,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does this model support VoLTE video call through native dialer (without 3rd party app),,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video call suport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+video callingfacility in calling menu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+video call is avilable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+native video call available or not in x4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+is there direct video call in dialer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we make direct video calls on this phone Like Mi,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:this) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it supports video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is this Mobile has a separate  video call facility(excluding call from any apps) as in samsung or Moto E4 plus,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+it is video calling support from contact view ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+is native calling ( video calling from sim ) is there for this phone,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we do direct audio & video call for Volte without internet connection ,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Or we need to on mobile data always for doing this call ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE NOT n.Compatible_networks CONTAINS 'LTE' OR NOT n.Connectivity CONTAINS 'LTE' RETURN n
+does moto x4 have Image Stablizer when click pic or video,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+front flash available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+which type of flash provide yellow or white ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know 
+what is flash type yellow or white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Front Camera flash available in this phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Is the phone having single or dual led flashlight On Youtube, the device is shown having a single flashlight but here on Flipkart it is showing dual led flashlight in the pictures Why is it so
+Can any user tell me how is the front cam pic quality at night with flash,,,,Dont know
+is this redmi note 5 in front selfi camera Led flash available or not ,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+how many note 5 pro are sold on a flash sale 1 day,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Does it has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is the front flash working properly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+is it flash light for selfie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Redmi note 5 has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+does this redmi note 5 have led flash on selfie camera,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+is there a front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Does it been provided with front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Front flash present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is it work selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is selfie flash working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+it has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have front led flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have call flash light alert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+is it front camera flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Does this phone have a camera flash for front and back cameras,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Is the front camera flash is moonlight flash or led flash,,,,,,,,,,,,,,,,,,,,Dont know
+When phone will come front flashlight will burn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+is it have selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+why the rear camera flash is defective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+is the back flash light is lighted like other smartphone,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Rear_camera IS NOT NULL) AND a.Rear_camera CONTAINS 'flash' RETURN a
+Does it has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Mi note 5 front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+front camera selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+selfi flash is it in redmi 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+does have a front flash  please photo post,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Why can't you guys meet the demands and conduct the flashed sell in a very cunning methode You guys sucks I am waiting for 2 damn long months to get redmi note 5 pro..
+honor 9lite hv front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Redmi note 5 have front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Does the phone has LED flash on back and front ,also whether it is a single or dual ,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a.Front_camera
+Does this phone have a front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+battery removable or non removablefor this phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+can it be charged overnight without causing any harm to the mobile and battery,,,,,,,,,,Dont know
+is heating the battery problem in this device ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how much time I can spent in mobile in 100% battery with continuing using,,,,,,Dont know
+how does the battery long last if we use it continously,,,,,,,,,,,,,,,,,,,,,,,Dont know
+is the battery is better thn li-ion battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+its removable mobile battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+battery back up when internet using,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how can capacity of battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+How is the battery life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+this phone how much battery mAH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Battery is of how much mah ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+will the battery last for 1.5 days,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+how is the battery on heavy use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how much time does it take battery backup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+battery backup 1 day or more when heavy use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+friends 5000 mah battery Yes or No...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+hows the battery..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Does it have a removable battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+how much time does it take to charge full battery from 0-100%,,,,,,,,,,,,,,,,,Dont know
+friends 5000 mah battery Yes or No...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+hows the battery..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Does it have a removable battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+how much time does it take to charge full battery from 0-100%,,,,,,,,,,,,,,,,Dont know
+battery backup time with internet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+I want to know about the camera quality which is 5 mp,12mp only so it is good enough for clear pic. and battery backup duration ..can any one help me plss,,,,,,,,,,,MATCH (a:this) RETURN a.Battery,a.Rear_camera
+How many hours in battery full charge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+how is this mobile's battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+can I remove battery from phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+How long battery lasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+whats the battery backup of this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+can this Mobile battery  Removable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+inclusive of battery means,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+How long battery lasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how much time take to full charge battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+what's is the battery backup period of this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+including battery or seprate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Is it have any battery problem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+what to do if the battery of the mobile gets damage,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+internet for backup battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Is the battery removable in panasonic eluga ray 700,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+it's mobile battery attached yes or no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+What this battery backup is good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Is the mobile battery is removable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+removebale battery or non removable battary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+where i can see that battery is 5000 amh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+Does always data on how many days long battery will be stay without charging,Dont know
+inbuilt /removeble battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+What is this phone battery status and time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+How much time to battery 100% charge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+There is any problem with 5000mah battery ,it was blast like mi,,,,,,,,,,,,,,Dont know
+what is the battery life capacity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+If battery is charged 100% then how much time it takes to discharge,,,,,,,,,,Dont know
+How many hours continue using net then battery backup,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+is battery is in built in hand set,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+is it possible to change battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+battery is remavable or not.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+how many hours the battery capacity will be there exactly.,,,,,,,,,,,,,,,,,,,Dont know
+how many time battery backup with internet used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+in comparison of this phone vs moto e4 plus which i get better in all factors including camera , processin, ram, battery etc. more
+is the battery removable of panasonic eluga ray 700,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+if the battery have any issues how can i change,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how many hours battery last continuos with net on without net off,,,,,,,,,,,,Dont know
+battery backup time 10 hours ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+does it have poklumer battery or lithiom ion battery,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Dose it have remove battery or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+Which one is good lithyum ion or lithyum polymer battery,,,,,,,,,,,,,,,,,,,,,Dont know
+how many hours does the battery  take to charge from 0 to100,,,,,,,,,,,,,,,,,Dont know
+how was its battery backup and how much time its lasting if i use it,,,,,,,,,Dont know
+How about the battery usage ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Otg support and battery back,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+Is it better than redmi note 4And its battery life,speed,,,,,,,,,,,,,,,,,,,,,Dont know
+which camera portrait mode in redmi note 5 mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+which phone is best for playing games and for camera redmi not4 or radmi not 5,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera 
+does this redmi note 5 have led flash on selfie camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+its camera is better than honor 9 lite,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+camera is same has mi 5A and note 5 is there is a difference,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+what is a difference between in camera of note 4  and note 5,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+redmi note 5 vs honor 9 lite camera...which one has best.,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does it is a perfect mobile and have camera quality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+which phone is better in front camera moto e4+ /moto g4+,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,b.Front_camera
+does it have good camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+camera wise which is better, this or moto e4 plus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this)  MATCH (b:it) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+how are front and back cameras image quality ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+is rear camera is better,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+what type of camera puality of this phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+does the back camera pictures are clarity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+Is it really not working camera clearly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+does it have a dual camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND (a.Rear_camera IS NOT NULL) RETURN a
+how is front camera ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+is that camera better than mi A1 camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera  
+how are front and back camera. is it fine or not..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+which one is the best camera quality letv 1s or panasonic eluga ray 700,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Is its camera really 13mp.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE a.Front_camera CONTAINS '13' a.Rear_camera CONTAINS '13' RETURN a
+does this phone have front camera mirror mode selfie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Front_camera IS NOT NULL) RETURN a
+how is front camera clearity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Front_camera
+which is camera best panasonic ray 500 or lenovo k6 power,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+what about front and back camera quality at night ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how is its both front and back camera pixle quality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+panasonic eluga ray 700 rear camera clear photo yes or no,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+how is its camera clarity both front and back cam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+what about the picture quality of front camera & sound quality,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Sound
+Which one best camera mi a1 note 5 pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera  
+does it support dual camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Front_camera IS NOT NULL AND a.Rear_camera IS NOT NULL RETURN a 
+camera qulity better then the redmi note 4 yes or no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Which is better redmi note 5 or moto g5 s plus In camera,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does it's have bokeh in front camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+which phone have best camera in miA1 or redmi note 5pro.,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Which phone is getter honor 9 lite or redmi note 5 as compared to camera,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+camera difference between mi note 5 and mi a1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+isnt the front camera should be 20mp how it is only 5mp,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+Which camera is better; Redmi Note 4 or Redmi Note 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+which front camera is good honor 9lite or  note 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,b.Front_camera
+what r the camera features,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+mi note5 v/s vivo5s:which rear camera is better,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Rear_camera,b.Rear_camera
+mi note 5 back camera megapixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+which camera is better samsung j7 max and mi note 5..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Does this phone have the feature of dual camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Front_camera IS NOT NULL AND a.Rear_camera IS NOT NULL RETURN a 
+which phones camera is better Iphone SE or Redmi note 5,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera 
+camera quality wise which one is better Redmi 5A or this Redmi Note 5 ,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does it have dual rear camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+How good is the rare camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+which mobile have better camera Redmi note3 (16 MP) or Note 5(12 MP),,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+which camera best redmi note 5 or redmi 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Sefie camera is good or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+What is the camera quality of Redmi Note 5 from Oppo F1,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+what about front camera is it better than samsung,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,b.Front_camera
+its camera and is all functions are better than redmi note4,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+which camera is better .mi note 5 or mi note4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+which camera is best redmi note 5 vs redmi note 5 pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+is this phpne compatible for using 2 sims and 1 memory card at a time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+are there different slots for 2 sim n one memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+this support two sim and memory card at same time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+can we use two 4g sim and memory card at the same time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+memory is expandable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "expandable" RETURN a
+does the phone support two sim slot plus dedicated memory card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+can we use 1TB external hard disk for expandable memory storage instead of memory card,,,,,,,,,,,,,,,,,,,,,,,Dont know
+how much user memory is available in 64gb and is this suppoerting project fi android one,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+This mobile get dual SIM slot with memory card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+CAN I USE 2 SIM CARDS AND 1 MEMORY CARD AT A TIME ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+can we use memory card and dual sim at same time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+can i use two sim & one memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Does this phone supports Dual Sim Card & Memory Card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+will Redmi Note 5 Support both Two Sim + Memory Card at a time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Hi,This phone come with 2 sim cards with 1 memory supportboth 3 working at same time,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Does this phone have duel sim & memory card in use at a time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Does this phone has Hybrid slot or a dedicated slot for memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN "Hybrid"
+Does it have a separate memory card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Having separate memory card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+two sim slot and separate memory card slot available ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+memory is expandable or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "expandable" RETURN a
+usable memory whats GB...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Removable_storage
+Dose it have two sim and a memory card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+i can use 2 sim and memory card at a time. for this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+redmi note 5 has a different memory card slot and 2 sim card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Out of 64 GB memory how much GB is free for user,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+it have 2 4g sim cards and memory card option at 1 time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+What kind of sim slot in it 1 sim and 1 memory card at a time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+i want to insert 2 sim and memory card..can i do this,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+it support 2 sim & 1 memory card at a time in slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Can use two sim and a memory card simultaneously,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Does it accept double sim and memory card at a same time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a 
+Is there having separate slot for memory card and sim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+I need 5 inch display with 4 GB Ram , 64 GB Memory. Is available ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Redmii Note 5 64 gb support 2 simcards 1 memory card at one time,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Does it have memory'card option.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+need to use 2 sims and memory card at same time u have other in redmi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Does it have a extra slot for memory card apart from 2 sim,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+does it support 128gb memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "128" RETURN a
+does memory card have seprat slot from sim slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Can we use 2 sim and a memory card in 1 time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+how many free memory in 4RAM/64ROM note 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Storage
+How much user usable memory do we get in 64 gb variant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dont know
+it's 2sim and memory slots,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+Dose the phone have two sim and a memory card slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+Does it has dedicated memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+is it memorycard supported,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+is there Direct Vedio call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Memory card +2 sim use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+can it works without memory card for apps r pics,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.STORAGE IS NOT NULL RETURN a
+where's the place to insert 2 sim card along with memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Jio to Jio Offline Video calling Option in this phone ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+2 sim and memory card space available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+it is dual sim with memory card.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+can we use at a time two sim + memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Is there a memory along with two sims on this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+does it have two simcards,memory place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+oppo a71 is 16 gb how much free memory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Storage
+How much internal memory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Storage
+Can i use 2 sim card and 1 memory card in one time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+does iphone 6s and 7plus support memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+will it make call by jio sim in offline,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+memory card is avilable or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+this mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+can i use both sim nd sd card together...is there an extra slot for memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+memory card is avilable or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+is this 2sim+memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a

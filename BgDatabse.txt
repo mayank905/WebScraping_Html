@@ -1,0 +1,3134 @@
+							VIDEO CALLING
+
+
+does it support direct video calling feature from dialer,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does the Galaxy S9 Plus support native video calling, i.e. ViLTE (video over LTE) over Jio network Can you make video calls over LTE networks directly through the dialer app Please clarify.,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+it support video calling when data is of....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Video calling can be from any 4G SIM.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+dose it support native video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+does it support video calling and conference call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it have video calling without data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make a direct video call by using jio sim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support volte video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling from contact without any special application,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video calling in this phone without any app yes or no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+have a video recording how in flash in front camera.,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it have video call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support video call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can I do video call without Internet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does this phone support direct video calling without  internet,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it supports 4k video,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '×2160' RETURN n
+is it support volte video calling by using network Without 3rd party app ,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+This mobile support full HD videos or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '1920 ×1080' RETURN n
+Direct video call...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+This phone work 2k videos or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '2048 ×' RETURN n
+panasonic eluga  ray 700 this phone video calling available  yes or no,,,,,,,,MATCH (n:this) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i do video call without internet connection by this phone,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we chat by videocalling without use of headphone on this mobile,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling without any special application,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it record 4K videos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Display CONTAINS '×2160' OR n.Display CONTAINS '4096' RETURN n
+does it support 360° video,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+How much time does it take to get heated And when it gets heated like video playing or running a game or during charging
+is phone getting hot while charging or playing video. is it Chinese company and where manufactured.
+in red me note 5 does it have an option to have 4k video recording and panorama, portrait mode, nightmode, bockey modes in rear camera
+full hd + video recording
+does it have native video calling without any third padty app like whatsapp or IMO,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+DOES it has video recording 
+is this phone having facility to play any video slowly and take picture
+Does it have video revers mode
+can I do direct video call without third party apps,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+note 5 is having video calling feature r not if NO then in A1 is having that feature r not,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n?????????????
+Does it play full video or not
+Mp4  video support
+is it shoot 4k videos 
+does it have video stability control
+maximum Resolution for video recording
+Hello am interested in telling about this mi note 5 mobile i will post the video in my YouTube channel can you please send this phone at rupee 0 and free deliver
+Slow motion video recording avaliable
+Does it has slow motion video recording
+video camera doesn't work during direct call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+can it play youtube videos on full screen without black bars or image cutting
+direct video call no data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+this phone long time video play then hitting problem 
+video front flash
+does it support slow motion video recording
+direct video call support,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it supports 3d video and virtual reality
+Can i make video calls without internet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can we make video calls directly with jio sim.or any other third party app required,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make video call directly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is this provides video call facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it has slow motion video recording
+Does it support 4k videos and recording
+can this phone plays 4k video at 60 fps smoothly 
+Does it support video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+is  fornt camera record  4k video e.g 3840×2160 resolution video please clear
+Does it support 4k videos
+Does tthis device supports jio video call. because g5s plus does not supports that.,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+it the phone support  direct video call ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support video call through dialer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it have slow motion video mode
+Does it support native videocall through dialer over jio network ,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is moto x4 support direct video calling without using net,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i do direct video call through jio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support default video call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it have direct video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+inbuilt video calling with jio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i njoy videoes in VR   it has that sensor or not 
+does it have video call option,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does this model support VoLTE video call through native dialer (without 3rd party app),,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video call suport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+4k video rec
+it can capture slow motion video....
+does this phone support 2K nd 4K videos
+5.2 inch screen of this phne is it ok to see video aur gaming etc without any prblm..is it big enough
+video callingfacility in calling menu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+video call is avilable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+split screen available and 4k video recording possible with this device
+can i record or sanp video or photo in unfer water on moto x4
+native video call available or not in x4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+which is better mi a1 or x4 does it supports slow motion videos as like redmi note 4
+is there direct video call in dialer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we make direct video calls on this phone Like Mi,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:this) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it supports video calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Whether it support slow motion video.
+Is this Mobile has a separate  video call facility(excluding call from any apps) as in samsung or Moto E4 plus,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Dies moto x4 have slow video option in camera 
+it is video calling support from contact view ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+is native calling ( video calling from sim ) is there for this phone,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we do direct audio & video call for Volte without internet connection ,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Or we need to on mobile data always for doing this call ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE NOT n.Compatible_networks CONTAINS 'LTE' OR NOT n.Connectivity CONTAINS 'LTE' RETURN n
+does moto x4 have Image Stablizer when click pic or video,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+							FLASH
+
+front flash available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+which type of flash provide yellow or white ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????????????????????????????????????????????????????????????????????? 
+what is flash type yellow or white,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Front Camera flash available in this phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Is the phone having single or dual led flashlight On Youtube, the device is shown having a single flashlight but here on Flipkart it is showing dual led flashlight in the pictures Why is it so
+Can any user tell me how is the front cam pic quality at night with flash,,,,??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+is this redmi note 5 in front selfi camera Led flash available or not ,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+how many note 5 pro are sold on a flash sale 1 day,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Does it has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is the front flash working properly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+is it flash light for selfie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Redmi note 5 has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+does this redmi note 5 have led flash on selfie camera,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+is there a front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Does it been provided with front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Front flash present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is it work selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is selfie flash working,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+it has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have front led flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have call flash light alert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????
+is it front camera flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Does this phone have a camera flash for front and back cameras,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Is the front camera flash is moonlight flash or led flash,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????????????????????????????????????????????????????????????????
+When phone will come front flashlight will burn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????/
+is it have selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+why the rear camera flash is defective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,??????????????????????
+is the back flash light is lighted like other smartphone,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Rear_camera IS NOT NULL) AND a.Rear_camera CONTAINS 'flash' RETURN a
+Does it has front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Mi note 5 front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+which date sale start redmi note 5 or which sale flash or normal
+front camera selfie flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+couldn't get note5 pro on flash sale, is it worth buying note 5 rather,,,,,,,
+what can front torch to make flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+When blue redmi 64Gb comes on flash sale reply me,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+When Redmi note 5 64Gb blue colour come out on flash sale Ans quickly if it is late we are going to honner
+When Mi Note 5 64Gb blue flash sale flipkart
+dose it have dual colour LED  flash
+selfi flash is it in redmi 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is redmi note 5 with 5.99 inch is flash sale 
+does have a front flash  please photo post,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Why can't you guys meet the demands and conduct the flashed sell in a very cunning methode You guys sucks I am waiting for 2 damn long months to get redmi note 5 pro..
+honor 9lite hv front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Redmi note 5 have front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+flash model clock .flash screen look  clock showed.(eg:- windows look time flash animation model)  yes or no
+Does the torch flash yellow light on the gold handset
+does have two flash in rear camera
+Is the rear flash bright enough
+When is the next flash sale for this phone
+when is next flash sale of note 5 pro after 11 april
+Note 5 silfe flash  yes/no
+redmi note 5 back side flash light colour yellow or white
+when next flash sale will start
+is this have front camara with flash
+Does it have a yellow flash or proper white flash
+how do I  book a redmi note 5 ph on the date of flash sell
+Does the phone has LED flash on back and front ,also whether it is a single or dual ,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a.Front_camera
+Does this phone have a front flash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+
+
+
+							BATTERY
+
+
+battery removable or non removablefor this phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+can it be charged overnight without causing any harm to the mobile and battery,,,,,,,,,,???????????????????????????????????
+is heating the battery problem in this device ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+how much time I can spent in mobile in 100% battery with continuing using,,,,,,?????????????????????????????????????????????
+how does the battery long last if we use it continously,,,,,,,,,,,,,,,,,,,,,,,??????????????????????????????????????????????
+is the battery is better thn li-ion battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+its removable mobile battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+battery back up when internet using,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????????????????????????
+how can capacity of battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+How is the battery life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+this phone how much battery mAH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Battery is of how much mah ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+will the battery last for 1.5 days,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+how is the battery on heavy use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,??????????????????????????????????????????????????
+how much time does it take battery backup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????????????????????????
+battery backup 1 day or more when heavy use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????
+friends 5000 mah battery Yes or No...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+hows the battery..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Does it have a removable battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+how much time does it take to charge full battery from 0-100%,,,,,,,,,,,,,,,,,????????????????????????????????????????????????????
+friends 5000 mah battery Yes or No...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+hows the battery..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Does it have a removable battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+how much time does it take to charge full battery from 0-100%,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+battery backup time with internet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+I want to know about the camera quality which is 5 mp,12mp only so it is good enough for clear pic. and battery backup duration ..can any one help me plss,,,,,,,,,,,MATCH (a:this) RETURN a.Battery,a.Rear_camera
+How many hours in battery full charge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+how is this mobile's battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+can I remove battery from phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+How long battery lasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????
+whats the battery backup of this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????????
+can this Mobile battery  Removable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+inclusive of battery means,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,????????????????????????????
+How long battery lasts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,??????????????????????????????????????
+how much time take to full charge battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,??????????????????????????????
+what's is the battery backup period of this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????????????????
+including battery or seprate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????
+Is it have any battery problem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+what to do if the battery of the mobile gets damage,,,,,,,,,,,,,,,,,,,,,,,,,,????????????????????????????????????????????
+internet for backup battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,????????????????????????????????????????????
+Is the battery removable in panasonic eluga ray 700,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+it's mobile battery attached yes or no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+What this battery backup is good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,??????????????????????????????????????????????
+Is the mobile battery is removable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+removebale battery or non removable battary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+where i can see that battery is 5000 amh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+Does always data on how many days long battery will be stay without charging,,???????????????????????????????????
+inbuilt /removeble battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+What is this phone battery status and time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+How much time to battery 100% charge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????
+There is any problem with 5000mah battery ,it was blast like mi,,,,,,,,,,,,,,?????????????????????????????????????
+what is the battery life capacity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+If battery is charged 100% then how much time it takes to discharge,,,,,,,,,,?????????????????????????????????????????????????
+How many hours continue using net then battery backup,,,,,,,,,,,,,,,,,,,,,,,,???????????????????????????????????????????
+is battery is in built in hand set,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+is it possible to change battery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+battery is remavable or not.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+how many hours the battery capacity will be there exactly.,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+how many time battery backup with internet used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+in comparison of this phone vs moto e4 plus which i get better in all factors including camera , processin, ram, battery etc. more
+is the battery removable of panasonic eluga ray 700,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+if the battery have any issues how can i change,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+how many hours battery last continuos with net on without net off,,,,,,,,,,,,?????????????????????????????????????????????????
+battery backup time 10 hours ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+does it have poklumer battery or lithiom ion battery,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Battery
+Dose it have remove battery or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+Which one is good lithyum ion or lithyum polymer battery,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+how many hours does the battery  take to charge from 0 to100,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+how was its battery backup and how much time its lasting if i use it,,,,,,,,,?????????????????????????????????????????????????
+How about the battery usage ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????????????????????????????????????????????????
+Otg support and battery back,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Is it better than redmi note 4And its battery life,speed,,,,,,,,,,,,,,,,,,,,,
+How  battery if we use continuously
+I have listen that battery & phone hot while talking on this phone.. Is it correct
+is it right  after use of  10 days battery draining  quickly
+in battery life which phone is better oppo f3 or mi note 5
+Is non removable battery is safe from blast. because many mobile get blast Due to we dont know the condition of battery inside, sometimes battery get thick and that had a chance to get blast.
+does it has removable battery or not
+What about its battery did it heat
+Can anyone please tell me about the battery standby time of this phone
+Is the battery capacity is larger than redmi note four
+how much time will be taken to complete the full charge of the battery
+is its battery removablei mean can you remove the battery from the set
+have any battery issue 
+how many days battery backup with hevy usage and normal usage
+How much is stand by battery time
+battery backup time with internet
+After heavy usage all over the day what's the battery percentage 
+which phone battery is best redmi note 5 vs redmi note 5 pro
+redmi note 5's battery is removable or not
+why redmi's note mobiles is so risky for it's battery , get so hot , we indians live in hot area, Redmi note5 will be secure for it's battery 
+what is its battery backup time in hours
+Is the battery heats while connect to the computer or T.V
+about battery charging
+is good battery backup
+How long it's battery run
+Which day battery backup
+tell it battery backup
+battery is fixed or attachebile
+Is its battery inbuilt
+i need little more mah battery 5000 mah  it is available
+it has removal battery 
+has its removable battery
+what about the battery How much does this takes to attain full charge and how much time does it takes to go to null charge after continuous usage
+Is this battery drain shortly
+Does the battery last longer in hours
+What about the battery, for  how many hours it will last
+is 3000mah enough i have play gaming 1 hr. in mng on the bed, and documnt, mail, and calling while office time, and surfing... is it enough battery
+How's the battery backup  What are the camera features  Moto X4 or Samsung C7 pro 
+how is battery backup
+Why is battery size only 3000mAh
+
+
+
+							CAMERA
+
+
+
+which camera portrait mode in redmi note 5 mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+does  support DSLR camera
+which phone is best for playing games and for camera redmi not4 or radmi not 5,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera 
+does this redmi note 5 have led flash on selfie camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+its camera is better than honor 9 lite,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+camera is same has mi 5A and note 5 is there is a difference,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+what is a difference between in camera of note 4  and note 5,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+redmi note 5 vs honor 9 lite camera...which one has best.,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Pics looks like DSLR camera
+why front camera 5 mp
+does it is a perfect mobile and have camera quality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+which phone is better in front camera moto e4+ /moto g4+,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,b.Front_camera
+The camera has portrait option
+has it front camera blur mood
+it have dslr camera
+has it rear camera blur mood
+does it have good camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+does it have a dual camerawhat are the camera reviews
+camera wise which is better, this or moto e4 plus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this)  MATCH (b:it) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+how is the front camera for selfie... is it.. EXCELLENT   or GOOD or AVERAGE ir BAD ..plz tell
+slow motion camera available are not
+What are the camera specifications of Panasonic Eluga Ray 700
+how are front and back cameras image quality ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+is rear camera is better,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+Redmi note 4 camera and is camera batter
+why yellow images captured in back camera what i do
+Does it has dslr camera
+what type of camera puality of this phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+The front camera is also equipped with sony IMX 258 or not
+is the camera 13mp good clarity with other phone
+does the back camera pictures are clarity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+whice is the camera best motoe4 plus or Panasonic eluga ray 700 
+Is it really not working camera clearly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+slow motion camera available are not
+how's its camera quality and does phn heats too much plz sm1 give the exactly true ansr
+does it have a dual camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND (a.Rear_camera IS NOT NULL) RETURN a
+what is the performance of both camera tell me truth 
+does is support boken mode in camera
+does this phone have blur camera system and what about the phone's sound system
+how is front camera ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+Sensor is where On screen or side of the front camera
+auto focus camera
+can its camera giv dslr effect
+Does it have back camera as blurr
+is it blur camera
+is that camera better than mi A1 camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera  
+how are front and back camera. is it fine or not..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+which one is the best camera quality letv 1s or panasonic eluga ray 700,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+What about the cameras of that phone..Is it clear..
+the camera of this phone has HD quality
+Is its camera really 13mp.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE a.Front_camera CONTAINS '13' a.Rear_camera CONTAINS '13' RETURN a
+does this phone have front camera mirror mode selfie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) WHERE (a.Front_camera IS NOT NULL) RETURN a
+how is front camera clearity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:this) RETURN a.Front_camera
+which is camera best panasonic ray 500 or lenovo k6 power,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+what about front and back camera quality at night ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+how is its both front and back camera pixle quality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Has the device auto focus in camera
+why yellow images captured in back camera what i do for change it
+panasonic eluga ray 700 rear camera clear photo yes or no,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+howIts camera quality is .  nd  the phne have been hang after use
+how is its camera clarity both front and back cam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+does camera clarity is acceptable
+what about the picture quality of front camera & sound quality,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Sound
+Which one best camera mi a1 note 5 pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera  
+hows that camera in 5
+have primary camera portrait mode option
+does it support dual camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Front_camera IS NOT NULL AND a.Rear_camera IS NOT NULL RETURN a 
+camera qulity better then the redmi note 4 yes or no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+is remi note 5 have blare in camera
+does this phone's camera has portrait mode
+Which is better redmi note 5 or moto g5 s plus In camera,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does it's have bokeh in front camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+which phone have best camera in miA1 or redmi note 5pro.,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+How is back camera then clearty
+is the camera upto the mark of mi a1
+Which phone is getter honor 9 lite or redmi note 5 as compared to camera,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+wat about the cameraits have any dslr settingthe 5mb front cam is enoughfor clear
+does this mobile have dslr camera
+camera difference between mi note 5 and mi a1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does this phone camera has dslr mode
+Does its camera have background blurr effect like that of mi a1
+Is potrate mode available in both camera
+isnt the front camera should be 20mp how it is only 5mp,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+Does it have potrait camera.
+Which camera is better; Redmi Note 4 or Redmi Note 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Do yu have camera blur system in RedMI note 5 
+which front camera is good honor 9lite or  note 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,b.Front_camera
+does it have a clear back and front camera and supports heavy gaming without lag 
+does camera have blur background
+what r the camera features,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera,a.Rear_camera
+Does the front camera have bookeh effect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+can we do blurr when we use camera
+phone camera hv DSLR feature like blur etc...
+how is the camera clarity in night
+How many camera are there in redmi 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+I m a Dr.... Does the back camera good to click intra oral lesions
+is the camera have professional mode
+hows its camera  does it has blur background feature
+mi note5 v/s vivo5s:which rear camera is better,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Rear_camera,b.Rear_camera
+mi note 5 back camera megapixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+how much camera can zoom in,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+does it have better picture quality front camera
+which camera is better samsung j7 max and mi note 5..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Does this phone have the feature of dual camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Front_camera IS NOT NULL AND a.Rear_camera IS NOT NULL RETURN a 
+Does the camera have blur mode !  Portrait mode 
+which phones camera is better Iphone SE or Redmi note 5,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+in this phone rear camera can able to defocus image
+how was tha camera clarity.. 
+Does this phone have bookay effect for front and back camera 
+camera quality wise which one is better Redmi 5A or this Redmi Note 5 ,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does it have dual rear camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+Rear & front camera photo quelity
+does camera works properly
+mi note 5 has dslr camera
+is the camera ok for future
+4K RECORDING in camera 
+How good is the rare camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Rear_camera
+does the camera has panorama mode
+which mobile have better camera Redmi note3 (16 MP) or Note 5(12 MP),,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+camera is clarity pixel how much
+as per camera quality, speed of application on or off which is better speedup process mi 5 or mi 5 pro
+sir for the purpose of zooming in camera which phone is better mi 5 or 5 pro
+Does the front camera has beautification mode
+which camera best redmi note 5 or redmi 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Face unlock is there or dslar camera
+Sefie camera is good or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Front_camera
+how is the camera  compared with same rate phone...
+front and rear camera is  blurry 
+What is the camera quality of Redmi Note 5 from Oppo F1,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+Redmi note has potrate camera
+if it has sensors at near camera
+Is Mi note 5 providing SLR effect camera
+how many camera on frond
+what about front camera is it better than samsung,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,b.Front_camera
+its camera and is all functions are better than redmi note4,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+does it have bokeh mode in rear camera
+does redmi 5 have watermark option in camera section like mi a1
+does it support slow motion camera
+which camera is better .mi note 5 or mi note4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+This mobile camera have autofoucus or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+is the camera clarity gud
+does it have bokeh mode function in camera
+does this device have bokeh mode in both side camera,,
+Portrat camera are available,,.
+how iscamera quantity
+which camera is best redmi note 5 vs redmi note 5 pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it1)  MATCH (b:it2) RETURN a.Front_camera,a.Rear_camera,b.Front_camera,b.Rear_camera
+what is the difference between redmi note 5 and redmi note 5 pro other than camera features
+Does rear camera gives portrait shots
+can we control cc camera by our phone,
+camera quality is better if redmi a1 or redmi note 5
+when is the lauch of redmi note 5 dual camera in india
+Does the mobile have dual back camera
+Which camera is best note 5 or a1
+does this phone's camera is better than to oppo A37 
+selfie camera is 20 mp yes or no
+whose camera is good or redmi Note 4 or redmi Note 5
+this mobile have DSLR camera like mi A1futures
+whats the difference between redmi note 4 and redmi note 5...  only screen size thats doesn't make much diffrence... camera battry everything same
+Does it have blur camera quality in rear camera
+what about rear camera
+How is the clearity of rear and back camera
+which is better in terms of camera redmi note 5 or honor 9lite or samsung j7 max 
+does the mobile has dual rear camera
+does has camera better than note4
+selfie camera use back sensir
+what is difference of camera mi note 5 & mi 5pro
+best front camera 5a or note 5 
+does it have a good rear camera clarity like DSLRS
+does 5mp front camera is enough for having perfect selfie for this phone
+Is the back camera have Gorilla glass protection
+which one batter camera and sound Redmi note 5 or Mia1
+The selfie of this camera is good or the selfie of Samsung galaxy on 5 is good
+worrying about camera 12mp only''' etr5hyuj76	`
+i rear camera is better than note 4
+what is a front camera pixel
+what about camera qualityclear good quality pictures can be taken or not
+camera is skretch resistant
+does it have blur features in camera like honor 9 lite
+does this mobile had dual front camera
+what abt camera in note 5
+Which of the rear camera is betternote 4 or note 5
+what about selfie camera clarity
+does note 5 has potrait mode as it doesnt hav dual camera 
+Doe's it's camera have depth effect
+does it has  a dual camera like mi a1
+Redmi note 5 which lense used in camera
+Which camera is good.mi note5 or mi note4
+which phone has better camera mi a1 or mi note 5
+it has Dlsr camera or not
+Does it has EIS tech in camera
+whose front camera is best mi a1 or mi note 5 
+What is the mp of selfie camera
+Is the camera good in low light
+does this phone have dslr in the 12 megapixel camera
+Doea it have Bokeh Effect  As far as I know mobiles with dual camera do have.
+how is the quality of front camera 
+is headset comes in the box
+does it has blur camera
+how is the camera performance
+selfi camera has bookeh effect
+How is it front camera performance
+its camera quality is equal to note 5 pro...
+Is its Front camera is better than redmi note 4
+what is 12 mp camera. and what diffrence in 12 mp and 13 mp of mi note 4
+is this dual camera mobile
+Is it DSL camera
+Does it work of dslr camera
+Does works camera DSLR mode
+how many camera's dies it has on it's back
+Mi a1 camera is good or its
+How far good cameras are for photographer.
+is camera better than A1
+Does redmi a1 and redmi note 5 has the same camera quality
+is its camera have auto blur effect
+is this have better camera with mia1
+single camera oh no
+Is this phone have a portrait mode in camera
+what is the camera performance
+is this phone have a portrait mode in camera
+does the camera support OIS (optical image stabilization)
+Does the dual rear cameras focus on a single object
+does Moto x4 have dslr camera feature.
+both camera open together
+is it advanced  dslr camera
+its camera blur or not
+How to use dual camera on time
+Is it true that their is any lens on the camera which is purchase separately
+which camera is best infinix zero 5 or moto x4
+what about camera depth effect
+which phone is better in motox4 and g5s plus in build and camera quality and water resistance.or mia ai vs motox4
+Which one is better moto g5 s plus or moto x4 in features as well as camera facilities
+Which one is better moto x4 or mi A1 for camera
+Blur camera option is available or not Please tell me
+Is the camera (Rear and Front) Quality better than Moto G5s Plus
+honor 9i or Moto x4  for camera
+does the front camera of the phone has portrait mode
+which camera is batter between Moto x4 or Mi A1
+does seceondary camera have blur facility
+Is this camera better than moto g5s plus
+Is this phone in portrait camera
+12+8 what are advantages of it over just 21 mp camera 
+Which color looks greate and why with logic, can camera and it's surrounding get scratches easily because of it's positioning. What about back glass protection.
+does moto x4 camera has any kind of stabilization
+is the primary camera of motox4 better than moto g5splus because the camera of moto x4 is only 12+8 while camera of g5s+ is of 13+13..!
+can you help me the moto X4 camera have bokeh mode or blurr option in back or front camera
+is this phone has camera clearity like lg nexus or pixal 
+Is support in 360°camera
+which camera is best motox4 or mi A1
+have dslr camera in this phone
+Does its camera is better than Samsung galaxy s7 
+Does beauty mode available in wide camera
+Is its camera  better than j7 pro
+is rear camera glass has gorilla glass 
+is this have backgroud blur option in camera
+What is rear camera megapixels. Is it (12+8) 
+does dual camera work at a time
+there is any heating issue while playing games or using camera
+what is camera shutter speed
+Is this phone has HD camera
+does its rear camera has dslr effect 
+camera can it captures photo in portrait mode
+Back side is Corning gorilla glass, so camera glass also scratch resistance....,.  their are too much chances to scratches on  camera because of camera bump.....
+How much mega pixel does front and back camera having
+what's the camera aperature
+
+
+							COST
+
+
+
+In pre-booking , will i be able to get wireless charger on no cost 
+7+ 128gb and 8+ 64 gb are same cost , which should I go for
+In pre-booking , will i be able to get wireless charger on no cost 
+
+
+
+							OTG
+
+
+does it suoport otg
+what about otg support is this mobile have otg suppory
+is this phone is OTG supported
+otg is there
+is it 1 TB hard drive vai OTG..my Samsing phone working fine
+
+
+							PERFORMANCE
+
+
+4month after performance every thing
+Does the performance match with Snapdragon 845 
+How's the performance while playing high graphics game
+4month after performance every thing
+ 
+							
+
+							OTHER
+
+
+is this 2sim+memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+which phone is good Redmi 4 or moto e4
+can i know about the heating of phone and does this have both 4g sim slot with volte
+does it have led notification
+Can we use 2 sim cards n sd card at the same time....  Also I heard the phone is little heavy
+how many ram of moto e4 plus
+Is it 4g or not 
+does it is metal body phone
+2 sim is it or not
+is this tied with lenovo
+Which phn is better moto e4 plus r oppo a57 
+moto e4 plus is weather proof
+Does it support dual sim and are both 4g+4g..does it support jio sim
+my friend said it has hybrid slot
+Please help with any major or minor flaws you came across after using this phone
+quick charge support
+does it has Gorilla glass...
+does it support call conferrence
+its support OTG
+mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+does it support reliance jio 4 g
+how can i lock apps with fingerprint 
+finger print sensor is in front power button or in screen or in back side
+Conference call and call recording support
+its charger is booster charger
+it's suport volte
+is it waterproof
+1 Micro and 1 Nano sim slot or both micro
+moto e4 is water resistance or not
+it has internet speed better or not....
+where is speaker
+does this phone  hangs
+Which is better Moto e4 plus or Samsung galaxy J7 Nxt
+is this device Motorola E4 Plus Compatible with Jio 4G Volte
+how to solve heating problem
+does it have finger print sensor
+which phone is better lenovo k6 power or moto e4
+does it have Led notification light 
+which phone is best Moto e4 or Redmi  note 4
+memory card is avilable or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+phone supports nano sim or micro sim.
+is this phone OTG compitible
+whether moto E4 plus have GSM +GSM sim slots or  GSM +CDMA
+How's the performance while playing high graphics game
+can i upgrate it to latest android version
+it needs glass guards or screen guard
+does it have heating problems
+is this phone support 4g or not
+can i use both sim nd sd card together...is there an extra slot for memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+this phone otg supported and multi-touch as vivo / oppo tell me please
+Does it has volte support
+this mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+which phone is best moto e4 plus, nokia 6 or kenovo k8 note somebody tell me
+is it contain finger print sensor
+Is it volte supported connectivity
+tell me about its average net speed
+Does it support dual sim and are both 4g+4g..does it support jio sim
+is it support jio 4g
+Jio sim support with out jio voice app
+Can we use 2 sims and 1 sd card at a time
+do we get a jio sim with it
+Will it get oreo update
+moto e4 puls support jio 4g sim
+Moto e4puls and redmi note 4 me body kiske dek hai palz kon sa purches karu
+It has hot spot or not
+is this 2sim+memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a 
+which phone is good Redmi 4 or moto e4
+can i know about the heating of phone and does this have both 4g sim slot with volte
+does it have led notification
+Can we use 2 sim cards n sd card at the same time....  Also I heard the phone is little heavy
+how many ram of moto e4 plus
+Is it 4g or not 
+does it is metal body phone
+2 sim is it or not
+is this tied with lenovo
+Which phn is better moto e4 plus r oppo a57 
+moto e4 plus is weather proof
+Does it support dual sim and are both 4g+4g..does it support jio sim
+my friend said it has hybrid slot
+Please help with any major or minor flaws you came across after using this phone
+quick charge support
+does it has Gorilla glass...
+does it support call conferrence
+its support OTG
+mobile have 2 sim slot and another memory slot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+does it support reliance jio 4 g
+how can i lock apps with fingerprint 
+finger print sensor is in front power button or in screen or in back side
+Conference call and call recording support
+its charger is booster charger
+it's suport volte
+is it waterproof
+1 Micro and 1 Nano sim slot or both micro
+moto e4 is water resistance or not
+it has internet speed better or not....
+where is speaker
+does this phone  hangs
+Which is better Moto e4 plus or Samsung galaxy J7 Nxt
+is this device Motorola E4 Plus Compatible with Jio 4G Volte
+how to solve heating problem
+does it have finger print sensor
+which phone is better lenovo k6 power or moto e4
+does it have Led notification light 
+which phone is best Moto e4 or Redmi  note 4
+memory card is avilable or not,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+phone supports nano sim or micro sim.
+is this phone OTG compitible
+whether moto E4 plus have GSM +GSM sim slots or  GSM +CDMA
+How's the performance while playing high graphics game
+can i upgrate it to latest android version
+it needs glass guards or screen guard
+does it have heating problems
+is this phone support 4g or not
+can i use both sim nd sd card together...is there an extra slot for memory card
+this phone otg supported and multi-touch as vivo / oppo tell me please
+Does it has volte support
+this mobile have 2 sim slot and another memory slot
+which phone is best moto e4 plus, nokia 6 or kenovo k8 note somebody tell me
+is it contain finger print sensor
+Is it volte supported connectivity
+tell me about its average net speed
+Does it support dual sim and are both 4g+4g..does it support jio sim
+is it support jio 4g
+Jio sim support with out jio voice app
+Can we use 2 sims and 1 sd card at a time
+do we get a jio sim with it
+Will it get oreo update
+moto e4 puls support jio 4g sim
+Moto e4puls and redmi note 4 me body kiske dek hai palz kon sa purches karu
+It has hot spot or not
+does it support volte
+what is the ram for this device
+is it new or secondhand
+i wnat to buy the iphone but iam confused which one to buy 6 or 6s
+did we can take slowmotion vedio
+is it work finger prints lock
+how much payed on this phone
+does it support jio
+It is 4g phone
+has the ios11 ugrade come foe 6s
+is it unlocked and ready to use please tell me
+does it support OTG device which iphone support this OTG function
+iphone 6s have metal frame or body
+which software update is available a9
+Why is this smartphone heating up too fast
+Will it come with ios11 out of the box now
+can iphone 6 otg use
+is it waterproof
+is it upgradable to ios 11
+why are there markings on the back of the phone i thought apple removed them in 6s models
+can i install and use my jio app in this phone
+is 32gb space is enough to handle
+In which color i phone 6s is best
+is there potrait mode in this phone
+how iPhone Google Map use yes or no
+Is charger provided with the box
+how many ram
+what is capacity of ram
+how many sim insert 1 or 2
+Why it is heating too fast
+I have two questions..Can I transfer any movie from my windows 10 laptop or any android phone and watch it on apple And my 2nd question is Can every app on apple is free or chargeable
+Battery of 1750 mAh looks very Poor... what about performance 
+does iphone 6s and 7plus support memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage IS NOT NULL RETURN a
+does it support otg
+iPhone 6s is gorlla glass or not
+Photo gets blur background or not
+does it support voice over lte
+Does it comes with earphones
+Will you take paylal gift card plzz
+do work volte
+dose it work volte
+Is this device is waterproof
+which one is better iPhone 6 plus or iPhone 6s
+is it work face id lock
+is it waterfroof
+does it support 5g I n future
+Dose it used shareit app
+Can i used shareit app
+I want to buy a apple iPhone 6s should I buy it or not
+ios version of this phone
+is there portrait available
+is it water proof
+will it make call by jio sim in offline,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n???????????????????
+Does it Hang
+Does this mobile support fast charging
+Can i use 2 sim card and 1 memory card in one time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+Is this suitable for gaming and internet connection
+red mi note 4 or oppo a71 best
+it's android version
+oppo A71 heat problem
+sellinam apps working in this mobile
+Does it has OTG facility
+is it android
+does dual app system
+Does it support two 4g sum cardd..  Or one 4g and one 2g/3g ..
+how many hours it can work when net is on and heavy usage
+is it best  from vivo  v5
+this mobile is gorilla class
+This phone is 4 g. .....
+does this phone support OTG fesility 
+does this mobile have fingerprint sensor
+Can 2 4G sims works simultaneously in this phone
+do this phone have bookeh mode
+does it support google drive
+As its memory is 16 gb will it trouble user in future
+IS oppo A71 spartphone heatproblem
+is this phone better than Como P14g
+opo 71 phone is finger print suport yes our no
+Does it have a case and screen guard in the box
+How much internal memory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Storage
+IR blaster yes or no
+otg conneted yes or no
+Is it 4g or not
+how many hours will charge remain on heavy usage
+Does it control tv like remote
+does it have pattern secure
+Is it has both music speaker or for calling
+oppo a71 is 16 gb how much free memory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) RETURN a.Storage
+does this phone face unlock
+Does this mobile  needs sd card
+does it water-resistant
+Lenovo k8 plus or oppo a71(best)
+this phone support otg
+we can use only Jio sim
+does this phone have heating problem
+it is call recording system
+how many hours did the charge stay in average usage
+is they have finger print in oppo a71
+it will support 5g in future
+does it have finger print censor 
+did it supports jio sim card
+does it have two simcards,memory place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+Does the phone come with a fingerprint sensor
+What is the android version for this device
+if the phones finger print button is pressable 
+Is there a memory along with two sims on this mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+is this phone volte support 
+3g or 4g set
+Does Eluga Ray 700  phone has FM Radio 
+whether eluga ray 700 contains headset or not 
+This Phone 4g Volte 
+what speed in finger pirnt 
+Does this phone heat quickly
+how much hour(day) charge capacity
+which is better in lenovo k8plus and panasonic eluga ray 700
+is it water proof nd gorilla glass
+How can i home any page.
+which best colors of pansonic eluga 700 ray
+does the phone with cast screen function
+is it multi touch screen
+is it volte or lte phone
+t v remote sensor
+which phone is good Panasonic eluga700 or moto e4 plus
+buy the phone extra charge and head phone free
+this phone have removal batrry
+can we use at a time two sim + memory card,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage NOT CONTAINS "SIM 2" RETURN a
+can we expand 64 gb or 4gb ram
+where is finger print sensor  back or front .
+Does it support gujrati
+it is dual sim with memory card.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+is this phone has ir blaster
+is it gorrilla glass
+is it volte
+dolpy atoms available
+How many speakers in this phone
+this device has a gorilla glass protect
+is it multitouch screen
+there is two adio speakers in this phone but only one is working .one speaker is just for show or any problem for that
+is the back case removeable in panasonic eluga ray 700
+What are the in-the-box contents of Eluga Ray 700
+if the phones fingerprint button was pressable
+Do the two speakers make sound togather The left-side speaker of my mobile is not working.
+is the phone coming with snapdragon processor
+Is it a single sim or a dual sim device and does it support 4G VoLTE
+we can use 4g sim in both sim slot
+this phone front have Panasonic logo yes/no
+is the back case removeable
+Does we get very low voice of other person while talking on phone with someone.
+Does the phone has FM Radio 
+Dose he update Android Oreo
+2 sim and memory card space available,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (a:it) WHERE a.Removable_storage CONTAINS "SIM 2" RETURN a
+what is its average charging time
+this mbl single sim + sd card or dual sim+ sd card
+multi window option is available
+it is dule 4g sim support
+is this phone metalick body
+metalic body or not
+is it is 4g
+volte LTE Mobile
+does both slot having 4g support
+dose it back cover is metallic
+does this phone have infinty display 
+has any led light blinks at the time of charging 
+Does it has finger senser
+does this phone has two sim slots and dedicated sd card slot
+is i got headphone by buying this mobile
+otg type c provided
+Eluga 700 which band's accepted with 4g volte
+does the phone glass break easily
+Only jio sim card is used.
+AVAILABLE GUARD WITH MOBILE BACK COVER
+is it true volte support mobile,
+is it super amlod display is it dolby atmoss
+Does the phone come with Gesture
+how it's internet speed...
+Panasonic eluga ray 700 is better or redmi note 4
+Using jio sim any heating problem
+Why only 1.3 GHz processor
+is it heat while heavy gaming and using internet
+Does this phone support quick charging 
+Does the mobile water proff
+did it upgradeble to android oreo 8.0
+is there 4gb variant in this "Panasonic Eluga Ray 700"
+it supports fast charging
+does it has led notification light single or dual colour
+does is sapport hindi language
+does the mobile have OTG support
+Panasanoic eluga ray 700 has now marshamallow Can we update this in android 8 oreo
+does this phone heats soon
+When we placed the finger on finger print
+ sensor how many seconds take to unlock
+does this phone  support dual volte in both sim slot
+how is sound recorder.
+Screen is good or no
+Is it have dual touch screen lock
+does it support auto call recorder
+is it best than redmi note4
+where is the finger print scanner
+buy the phone extra charge and head phone free
+Does the phone come with Gesture
+Q: How much time taken while charging
+does it have remote control like infrared sensor .. does the phone connects infrared sensor to any tv
+dose eluga Ray 700 phone as Miracast
+Hotspot in this phone 
+what about audio jack  and what about gpu
+adreno gpu or any other gpu
+does this phone support portarit mode
+can I make call from jio in offline mode by this  mobile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n?????????????????????
+during clash of clans is it become to much hotter  how long i can continuosly  play coc 
+Is the phone hank to play games
+one sim is 4g what about 2nd sim is it 3g or 3g
+Phone is hang when using long time
+what about the microphone what about the sound quality on ring slow or high
+both sim slots supports 4g network or not
+Is this phone availae in black colour
+is this phone have the capability of bluring background while taking photos
+what is inside the box.
+have a finger print
+does the phn make call without  jio 4g voice
+Any heating during net usage
+1.3 GHZ Processor , system will slow
+how many slot in this device
+is it water resistance..
+Does it have a ir sensor to use it as a remote control for T.V
+how many fingers are allowed
+it is dual sim card
+how much waight of this mobile
+is this phone volte
+is this mobile back cover is removable,if not removable,how can we insert sim cards(4g+4g)and micro sd card
+is this mobile is metallic body
+Is panasonic eluga ray 700 is good or motto e4 plus
+does this device work in gulf countries
+does this phone can upgrade to Android 8(oreo)
+Does the phone support play store nd google chrome
+Is the phone have slim and sleek body
+the device launch on which month or year
+cast support yes or no
+did is supports otg usb cable
+Does the phone come with Gesture
+Does the phone come with Gesture
+Does the phone come with Gesture
+Is this model having good music quality to hear over headphones i.e music enhancement
+its quick charging
+Which jobs can be performed by fingerprint sensor Is there Gyroscope sensor in this phone 
+what about it's sound quality
+does both sim slot support  4g
+is this mobile quick hitting
+why do not have processer speed 2ghz 
+i think it will be beter for sales
+Does the phone gets heated after use
+It's a water proof phone
+What about sound of mobile
+Is the phone gets heated while using internet
+can i attach card reader directly to this mobile for data transfer
+does it has notification light
+Does the phone come with Gesture
+the mobile will be hang after some hard work
+pls discuss about ppi details...
+Its nougat version will be updated in its software update or not
+Does this phn accept fast charger I have fast charger can i connect it and can i enjoy fast charging
+does this phone have gorilla glass eluga 700
+how many charging time the mobile
+Is in it navigation sensor
+can we use both jio or 4G sim at a time
+bottom light is working
+elgua 700....13mp cemera like samsung 13mp cemera
+Does Panasonic smart phone service centers are Located mumbai 
+does phone chare in 2 hours or not
+is this support  to otgp
+Which jobs can be performed by fingerprint sensor 
+this is an 4g set
+Is it suport to dual pendrive/OTGP
+how i open mobile data
+Jio to Jio Offline Video calling Option in this phone ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it has dslr effect
+which is best redmi note 5 pro or Panasonic eluga ray 700
+where's the place to insert 2 sim card along with memory card
+This moble right side glass is a spot.what is this spot
+have appluck system
+This phone have a miracast featured
+is i will get bill to this mobile
+Both sims 4g surport 
+Dose this phone heat quickly
+if there is any problem after replacement warranty how will i contact to distributor
+does it dth remote
+Battery charging time
+High capacity ya low capacity
+is this phone hang in 1 year
+which colour is gud looking
+After some months of use do this phone became hang
+Panasonic is Japanese or not
+this phone get android o
+redmi note 5 back cover are fit in this mobile 
+which colore is best
+This mobile Batter than redmi Note 4 or not...
+Does it heat very quick after making a call If yes then after how much time approximate
+is this mobile supports volte
+when i got my phone . the phone was with temperred glass fixed on it. does it comes with temperred glass pasted on it or not. as in the in box accessories its mentioned 1 glass will be there.
+How many loud sound for mobile speaker 
+u will provide headphone or earphone in the box
+does it works on android ui or any other ui provided by panasonic
+does it has retina screen lock
+How speakers sound
+when the phone is hot
+Is supported pe drive.
+this avilavle buka mod 
+how about earphone sound
+What are the accessories contains in the box
+is it glass are golila
+Which phone is better performance Panasonic eluga ray 700 or moto e4 plus
+W which phone will be good Panasonic or redmi Note 4
+is it 64bit architecture
+Selfie is clear or not
+after how much time of use it starts heating
+Does it support cast screen or does it work
+how is the network adaptation capacity of this phone.. can it find good range or not
+in a phone screen shot available
+panasonic eluga ray 700 is otg supported mobile
+which phone is better penasonic eluga ray 700 or samsung j7
+is it possible to chane fount
+Back bottun is in which side and it is in screen or not
+Does gorilla glass free with mobile
+does both sim works on 4G volte simultaneously
+which phone is better eluga ray max or ray 700
+does this mobie supports qi feature
+which phone is good panasonic eluga 700 or apple i phone
+Any heating problems and what the solution
+it is charge NB quickly
+when it luntch
+will i have hanging or heating problem with this product 
+does it have back cover in box
+doest it have keypad swipe
+cast screen avlible 
+Is it true that this drive does not have software update system..
+this product is better or infinix hot s3
+4g lit for both sims act perfect action
+does the phone have a split screen
+does it works all apps using fingerprint
+sim size  full sim  micro  nano 
+please inform isit support jio sim card
+its torch light bad or best
+all sim sapported this phone
+How much time it take 0% to 100%
+What this is hang free
+is this phone fast heating issue
+this set is it altra first
+processor in good condition or not. this processor is better.
+two whats app use or not
+finger print sensar does off to on
+how's the processor of  panasonic eluga ray 550
+have it any second space like mi or lenovo
+This product quick charging mobile
+Who working working dual sim 1 memory card
+audio jack how much mm
+it is tv remot sensor 
+Can we update phones software 
+is this blue colour is metal body
+is this phone having voice unlock sensor
+which mobile are best panasonic eluga ray max ya elluga ray 700
+Does it support 4g network in both sims at the same time
+HAVE UPDATE 8 OREO
+ihave 10hours charge but 100%not complete why
+did Panasonic elga 700 is best or honor 9 lite
+which is better from Panasonic eluga ray 700 or infinix hot s3
+Panasonic egua Ray ,infinix hot s3
+In this two which is better
+Is the speaker's sets in the system audible enough even from a long distance
+Is it 4Gvolte
+Please clarify me, sim1 and sim2 both are supported 4g or not
+does it have dual sim standby 
+Panasonic in future made snapdragon processor mobile
+slim or ultra silm
+does the mobile has  slow motion  in the vedio player
+what accessories do we get with this mobile
+is jio sim come with eluga ray 700 free and how many validity of it
+Battery is separate or attached to phone
+how match time take the switch on the mobile
+These phon have Dolby atoms
+is there will be any update available for android version from 7.0
+Is HD recording support in this phone...
+How much ram free 
+Can i activate this device (First use) in the U.A.E
+can i use international sim 
+can i use international sim with this phone 
+How much time phone heat
+Any solution for heating problems
+does it support 5g in future
+in this device infrared abvalbe or not
+it has support vodafone 4G
+how much RAM free 
+where is the back button
+does split screen work in this phone
+i heard that its hybrid sim slot...then hw is  2 sim and one sd card possible in it
+how is gaming experince in this phone
+It have consists two speakers on bottom but only one speaker working... Is there any problem
+0% to 100% charging time  when use to A. Panasonic charger.
+can i download heavy apps like snapchat 
+battry removel or non removel
+Is temper glass with mobile yes or not
+Is this phone Supports high graphics games
+who is the best samsung j7max or eluga ray 700
+Dual speaker not work how
+Does it has call forward option
+does it support screen mirroring with Samsung smart tv
+is this lcd ir led screen
+Is this lcd or led display
+Any bust issue till now
+Is this LED screen or LCD screen 
+eluga ray 7000 is waterproof or not
+is screen is 18:9
+How quickly it drains
+can it blur the background
+is it 18:9display 
+will company help this phone be updated to Oreo
+do this phone have Dolby atoms for music
+Do you need to fix tempered glass over the screen or it is not required as the handset comes with gorilla glass
+How many microphone in this phone
+octa & quad core which one is best
+does it support virtual reality (vr)
+what about signal strength 
+which is best Honor 9lite or Panasonic 700 ray
+Does it have infrared connectivity
+can it works without memory card for apps r pics
+Which items in the bag comes to me
+Which phone should i prefer redimi note 5or panasonic eluga ray 700
+what accessories included with phone
+how it's charging speed and charging time
+this is USB type C mobile or not
+Does it support vr box
+how many hours we have to charge
+Dose it support FM
+Is it have FM
+does it have side curved screen
+Does it have a face unlock
+which mobile is better lenovo k8 plus or panasonic eluga 700 or infinix note4
+how much battary backup(hours)
+will this phone can be use in out of india
+what accessories are included with the phone in the box 
+does this phone become hanging after a long time
+Is it speaker available both side
+first time it took 8 hours to charge is it normal
+Memory card +2 sim use
+out going call in data using
+this is phone any problems
+SD card ready. Do you want to change the default write disk
+verson update or no
+is the sim ejacuation pin available with the product
+no incoming and out going calls are active when I add my google account to the phone...wats the reason
+The speaker of the phone is good or no
+Panasonic eluga Ray 700 Having remote control setup and App and sensor 
+its speaker gon in seven days did you get back it 
+one time two jio sims support in this phone
+did it support idea or vodafone4g sim
+dolbe sound yes or no
+eluga rayv700 or honour9lite better
+honor  9lite ,zenfone ,eluga ray700  which i better
+how many finger prints we can save 
+does it supports wireless display
+is it android version 7.0 or 7.1
+Is it support compass & screen mirroring
+it has a dual apps
+which is better in redmi note4 and Panasonic eluga ray 700
+headphone provided or not
+What is the Penesonic eluga Rey 700 is waterproof mobile
+is it nice than redmi note 4
+what is the location of double tap screen to wake
+does this have notification light hw many colors
+Which has best images quality. Mi note 4 or panasonic eluga ray700
+What is usable in 32 gb rom
+Which is better apple iphone 7 or panasonic eluga ray 700
+where is the back botton
+If here's any buyer of this phone please tell me that could we use jio sim in this mobile
+is this phone supports 4g in two sim slotsand upgrde software at any time
+im from kolhapur maharashtra, which tims get in my hand
+This device fast heating .it's a problem
+Does panasonic smart phone service centres are located salem or erode
+it is a dual 4G support or 4G+2G support
+Does this support  dual profile for dual WhatsApp
+can this mobile be placed in water
+can you give mi a earplugged with the device panasonic ray 700
+which mobile is best panasonic eluga ray 700 or redmi Y1
+which is the best option eluga 700 or lenovo k8 plus
+this phone & Lenovo k pluse who is betr
+Did it have headset with mic
+is there Direct Vedio call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+gujarati suport language
+is it memorycard supported
+Is that eluga ray 700 mobile has user option for  multiple users
+octo core is best
+this mobile is very heating whats problam pls tell mee
+can i use my laptop by wifi tethering hotspot of this phone
+where is finger printer & light is or not 
+Panasonic eluga ray 700 is water proof
+what is the real time of charging
+can i use two sim at once
+what is the procedure to perform multi window
+this phone support cdma or gsm or both
+quick charging in Panasonic eluga ray 700
+That phone is fireproof
+is this phone duelshim
+does this phone heat while normal usage or while keeping in charging mood..
+Why only 1.3 Ghz
+Is screen mirroring  to connect the phone with a smart tv for watching possible in this phone
+it is dolby atoms sounds
+Dose it has inflared
+Whether the net runs or not
+Have this mobile charging light
+does this phone supports tilt games
+dual sim and SD card available or not
+Did it support idea 4g sim
+this mobile have hd display or not
+are this 2sim and 1sd card support at a same time
+does this phone heat while playing games
+this mobile realy have 5000 mah...
+is there available free jio sim for this eluga ray 700 Panasonic
+how is network
+many usesr option are available or not 
+is there phone  multiple user are available
+is it bettary removal
+This have dual app enable like MI Note 4
+in this phone support airtel volte
+Three buttons are inside the screen or outside the screen
+Which antivirus software is good for this phone
+screen type tft or amblod
+is it good than nokia 6
+upgradable to Android 7.1.1
+its update to heigher version yes or no
+Is it can be upgradable to android v8.0 and v9.0
+What charger watt and ampere
+Is this mobile is good for browsing and downloading
+does it has a big varient of 4gb ram and 64gb storage
+is it best phone than redmi not4 or infinix not4
+mobile have hotpot
+Panasonic eluga ray700 or Micromax evoke dual note which phone is good realy
+How much time it will take to charge full From 0% to 100%
+fanger parnet how was that in mobil
+is this a gaming phone
+who much time it works the mobile
+which phone is good panasonic eluga ray 700 or lenovo k6 power
+Does it have menu option
+network name not shown on notification bar
+can i use 2 what's app in this phone
+is it very thick
+music speakers how
+does this phone has Anti virus software
+Where r the panasonic stores of phones
+does it have good mobile signal even in village
+how much amp (volt)charger
+Fingerprint sensor applicable for downloaded apps
+how to change icon fonts
+it has cover display or not like mi note 4
+How many clouds of mobile
+is it volte LTE support
+This phone support VR box
+is it edge screen
+How to increase the charging speed.. 
+This is a triple slot phone please tell me....
+how to the mobile perfomance
+Do we have to buy temper glass separately
+earphone includ or not this handset
+Did it supports airtel or any other sims
+is that phone in reliance store
+what it is better then asus zenfone 4
+does this phone has dual 4g standyi mean working two 4g sims at same time
+can we update the inbuilt andriod 7.0 to 7.1.1
+turbo speed charging available or not
+is there fingerprint locking system in this phone(eluga ray 700)
+it is Dolby atmos
+does this phone has mhl/micro hdmi supporting port
+Does it support assamese languag
+Does it support assamese language
+is this mobile broken mode
+is it volte set
+4G volte supported 
+do this phone support Tibetan language
+yellow images captured why
+Does this phone support NFC 
+how much time it will take to get fully charged¿
+panasonic eluga ray 500 or lenova k6 power which is better
+this phone charging with fast charging or slow charging
+does it has inbuilt call recording
+What the phone is snapdragon
+is it water resist
+Is Ray 700 a 4g VOLTE PHONE or not
+can it be connected to pc or laptop via usb cable for media transfer
+does it supports mhl cable
+Is it stock android  Will it have 7.1.2 Nougat upgrade 
+can I update it miui 9 ....
+Is it good in gaming graphics
+is moto e4 plus better or Panasonic eluga ray 700 
+0 to 100 full charging time 
+its have infrared system Y/N
+This divice eluga ray 700 have TV remote
+is it better than redmmi note 4
+is it have any insurance polycy
+is it have wireless charger
+Does it have gesture control OTG compitable
+is this phn really runned by stock android i have seen in youtube. if this phn does not give update to higher versions then what is the utility of stock version
+it is quickly charging mobile
+how time will take to full charge 10 to100 %
+how much time wil take to 10% to 100% full charge..,
+where is fingerprint scanner located
+does it upgradable to..android Oreo
+does this phone become hanging when using long time
+does this phone become hanging when using long time
+is this both 4G slotBoth sim are 4G use at a one time
+Do the second slot support jio sim in this handset 
+what is its weight
+does it have snapdragon processor
+Does it support portrait mode or depth sensor 
+does it support portrait mode
+Does this phone support quick charge 
+is it support google assistant as it 7.0 nougat version
+does it support google assistant in nougat
+does it support google assistant
+its water proof
+Does it support Gujarati languages
+only gives  earphones or head set also
+smart tv support yes or no
+cast smart tv support yes or no
+Does the phone gets heated while talking for a long time.
+is it suppots jio 4g sim
+Why Sd card Automatically Ejected
+Is phone parts are easily available
+google duo Feautures
+what will we get headphone or earphone
+did is supports otg usb cable
+how it's internet speed...
+how it'e internet speed
+Remot control have
+buy the phone extra charge and head phone free
+buy the phone extra charge and head phone free
+buy the phone extra charge and head phone free
+buy the phone extra charge and head phone free
+Does the phone come with Gesture
+Does the phone come with Gesture
+Does the phone come with Gesture
+which is motoe4 plus or panasonic eluga ray 700
+have a dolby sound
+have a dolby sound
+have a dolby sound
+does this phone have auto call recording
+what number of finger prints can this mobile recognize
+when will be the marine blue model launching
+does this phone support high graffics games
+does phone have marshmallows  android
+how can i upgrade the android version
+Fast charge Support
+Does it support Fast Charging Qualcomm Quick charge 3.0
+Does it support sd micro card
+Is This Gorilla Glass Proof 
+How is speaker sound of this phone
+is the phone box had both earphone and headset 
+Is it support fast charging ...
+does it have A-GPS, GLONASS, BDS in the navigation system
+it is hybrid slim slot or dedicated sims
+Does it has dedicated memory slot
+Does this mobile have finger lock
+infrared 
+i mean can we control tv or ac 
+Smooth gameplay in this mobile
+is it a music phone
+CAN WE CALL FROM JIO SIM WITHOUT NET CONNECTION.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???????????????
+does it has fingerprint sensor
+is its speaker louder than mi a1
+is this good for gaming
+does it have vr split screen mode
+Does it record in slow motion
+does its have universal remote cobtrol facility 
+which colour is looking good gold or black
+sar value , what is the sar value of the mobile
+Does it support 4g in both slot
+I want to buy this phone but it is showing coming soon when i can get this phone 
+Does it really have Gorilla Glass support
+THIS MOBILE USB SUPPORTED OR NOT.
+How does this phone differ from Note4
+Does it have DSLR features to blur images
+Does it support Quick Charge or Turbo Charge options
+which one is better mi note5 or note5 pro 
+does its camara works like mi a1 i mean photos cones like dslr
+who are best phone note 4 and note 5
+best phone infnix hot 3 or Redmond note 5
+dose it have volt support
+samsung j7 is good or mi note 5
+how's the speaker quality of note 5
+which one is better in RN 5 3gb ram or 4 gb ram 
+Is this device is update to Android 8 or Not
+Is note 5 have fm radio
+OTG Support available
+which one is good redmi note 4 or redmi note 5 pro
+better then mi a1 mobile
+both sim support  LTE..
+Does Redmi Note 5 has face lock
+which is better Oppo A83 or mi note 5
+THIS PHONE CAMRA DSLR YES OR NO
+I cannot make to purchase this product in correct time 12:00 ,why
+Does it have fingerprint unlocking sytem
+Does it has a LED notification dot like redmi note 4
+Does the phone comes with a screen guard already on it Because I can see my phone delivered with a screen guard already on it.
+It has dual speaker sound
+is in this phone potrait picture are captured
+Can we control tv and ac through this phone
+does redmi note 5 contain earphones
+How is the speed
+what is the clock speed of this
+Redmi Note 5 is better than mi A1
+WHOSE CAMERA IS BEST MI A1 OR MI NOTE 4 
+Dose the phone have two sim and a memory card slot
+Which variant would be better - the black or the blue one any idea
+is it have any face lock sensor
+VR can be used 
+Does the box contains Earphones
+Whic is better redmi note5 (64gb) or lenovo k8 note(64gb)
+is it waterproof and fireproof
+which mi phone has face lock
+is there any notification light in redmi note 5 pro
+Does it have face unlock or will it come in any update
+can we get flip cover head phones screen guard
+Does it have face unlock censor
+does it have screen protection
+it has dedicated SD carf slot
+what is the charging time
+which is the better between mi note5 nd honour 9lite
+weather i have to buy a seoerate screen gaurd
+is this phone contains ir blaster 
+Does uses two sim card and sd card
+does it support remote control for tv and ac
+When will buy redmi note 5 right day
+does it have cod
+can i get vouchers on 399 rupees reacharge 
+have any protecting glass
+while talking on calk may i record call
+who are best phone opoo a83 or mi note 5
+which glass used in display
+can note 5 beat redmi note4 in all features
+does these phone have face unlock feature
+Redmi Note 5 does OTG biometric support
+Best Redmi note 5 Ya Honor 9 Lite
+will it recieve ota updates like redmi note 5 pro
+honor 9 lite or redmi note 5 which is betterand why
+which was the best redmi note5 or note5 pro
+is this handset support Vodafone 4G network
+Do we get head phone and screen guard along
+ with the phone
+is this have oreo upgrade
+Does Xiaomi Redmi note 5 support 2 SIMS and SD card simultaneously
+is potrait mode available in redmi note 5
+does it have face ID recognition
+Is Dual 4G and Dual VoLTE Supported in this device
+does this phone has a slomo feature
+which phone is best zenfone max pro or mi note 5
+mi note 5 facelock update is coming or not 
+Does it come with hard or soft case
+Can Jio sim is free with this product
+Which colour is best looking like blue, Gold, Rose gold and black
+ir sensor yes/ no
+redmi note 5 have quick charging support 
+have this phone blour backgournd
+which one is best mia1or note5
+which one is best camara mi a1 or redmi 5a
+Does the mi. Note 5 pro support call conferencing feature
+is it 2 slot or 3
+does it has fast charging type c port
+it's 2sim and memory slots
+does redmi note 5 has portrait mode option
+is ram ddr4
+Does it support 4k
+which colour is good for  mi not 5
+does it has glass protection
+is it better than note 4 and other mi phones
+it have blur
+does parallel apps works in this phone
+can i use vr box with note 5 
+is this phone has diffrent coloured led notification light
+sir phone comes with scratch card
+It's gorilla glass mobile.
+portait mode yes or no
+honor 9 lite is better or mi note 5
+does it hang or heat while play high graphic games
+difference between redmi note 5 32GB and redmi not 5 64GB
+Respect sir/madam,
+
+
+Please tell how much time it will take for redmi note 5 64gb rose gold phone availability.we want buy
+honor 9lite is best or redmi note 5
+does it have gorilla glass and metal body
+Does this mobile sim 1 and sim 2 support 4g volte lte or not
+Does it support fingerprint sensor
+it supports otg
+Does this phone have FM radio
+in this device is warm after high gaming with internet
+how much ram free for users in RN5 (4gb)
+Is it dual sim 4g standby
+how much in day coming mi note 5
+does it support 3ga format
+is it dual sim suppot or not
+volte r Lite this Mobile
+Does this Mobile blast after getting heat
+which phone is buy note 5or note 5pro
+how is screen is it really Corning Gorilla glassany screen protector with this or have to hut it separately
+note 5 having metal body or plastic body 
+which acceseries got with mobile
+which one is better  ... mi note 5 or motog5s+
+How much user usable memory do we get in 64 gb variant
+When it's sell start on 10,799 ruppies
+Weight is really 180 or 365
+Does it overheat while using mobile data
+Does it support EIS
+in this phone gta vice city game work smoothly
+Does it come with back cover
+Does the Redmi Note 5 have oleo phobic coating on its glass
+does it heat much while gaming or charging
+Is phones getting heat or not My friends are telling their redmi getting heat almost 42 degree
+is VR box available for this device
+Is this phone have country lock
+what will be the accesories i will get by buying this phone 
+how buy this mobile
+does it have finger print lock
+The handset is new or used(second hand)
+If any heating issue howmuch level
+how good is the speaker is it dolby
+it is MIUI 9 or 8
+Does it support headphones
+Does it support jio sim to see movies
+Does this phone any heating issue
+Which is the best looking color gold or black
+does it finger print use for close screen
+Is this has app lock with touch sensor and duel app like Honor 9 lite
+it have any network problem as like mi a1
+redmi note 5 pro or note 5.which phone is better in all aspects
+how is software performance
+which colour looks better among pink and blue
+Does it get regular updates Can i upgrade it to android oreo
+does it has dual standby 4G
+What is the meaning of hybrid sim slot
+does it have any screen protection.like gorilla glass 
+is this infrared sensor
+What are the other features in Mi note 5 accept large screen in comparision of Mi note 4
+it seems ,redmi note5 and 5pro don't have infrared ,plz confirm
+does both sim supports 4g
+vodafone,airtel support in mi note5
+which one is better mi note 5 or samsung on nxt
+: is it water proof can it take photos immersed in water
+Which is good infinix hot hot 3 o r redmi note 5
+what are the accessories coming with it
+Does it have dslr function
+which one is better redmi note 5 or iphone x
+It has 5 mp front cam if it gives clearly vision
+Will this phone Get Android Oreo And Android p. update 
+weather it will heatup  while charging or  while gaming
+in this phone earphone
+Does it have radio facility
+does it support ps2 games , like devil ma cry
+When compared to A1 Nd Note5 which is better
+Does redmi note 5 have face unlock detection
+which is best phone redemi note 5 or infinix 3s
+which is best Oppo f3 or redmi note 5  plz tell me i am in confusion .
+is have this phone magnetometer
+is it have 4k recording or hd
+which one is better Redni note 5 pro or Honor7x..
+does it has fast charging
+does it has fast charging
+which phone is better note 4 or 5
+which is better  infinix zero 5 pro or mi note 5 
+does it support remote control
+this mobile is fingarlock
+lenovo k8 note vs redmi note5 which one is best imean use for good
+Can u connected to Led or lcd tv or screen monitoring function
+what is the initial payment and how should we pay money  through which way can we pay money
+does it has dual speaker
+Power button is not waking up the phone immediately,it takes 5 to 6 times presding of the power button to wake up, what to do
+is this c type usb charger
+is screen LED
+remote control for ac  having or not in this model
+Why the phone gets heat up during charging
+is the phone support  wireless display to tv
+does it support 4G volte in both the simslots
+which one is better asus zenfone4 or redmi not5
+does have message notification light in redmi note 5
+other sim support,,
+Does it have optical image stabalisation
+Is it dual sim and sd card facility
+is it necessary charging 6 Hours for the first time
+how i get 4.5 TB jio data on redmi note 5 
+does it have dual apps option!
+Do we have screen mirroring option in this phone
+please tell me can i record audio 
+Does this fone come with Dolby Atmos
+Does it have Turbocharger
+Dual (4g+4g) sim stand by
+supports quick charging ..
+how many free memory in 4RAM/64ROM note 4
+its support or not 4G network at a time 
+Is it supports face unlock feature
+It can capture protait mode photo
+I wanted note 5 pro in place of note 5.
+By mistake I ordered note 5. Is there any possibility of upgrading the order from note 5 to note pro
+its coming with backcover or not
+is this phone have any 2nd page
+Does it has a earphones
+is it 4g, or 3g sim support
+Does it have slow motion recording 
+does it have a notification sensor
+what is the speed of the processor not revealed.
+does it hang
+how it works
+Does it have a quick charge system
+does it have any slow motion recording function
+does it works with jio sim ( volte support)
+does it support VoLTE 
+is it  hybrid sim slot or separate for 2 sim and  storage
+second space option available or not..
+Which is better to buy redmi y1 or redmi note 5
+is it type c  port
+howmany sim slots
+smart view is there
+is it upgradable to Oreo 8.0 
+otg cable is supported or not
+Both sim Support 4G or Not
+Is note 5 have face lock
+c type cable 
+What is the total length from top to bottom of the phone
+Which is the Best tempered glass for Redmi note 5
+Can we use 2 sim and a memory card in 1 time
+Mi note 5, mi note 5 pro, mi note 4. Which one is best
+1) how much free rom available in 64gb variant.. 2) how much free ram in 4gb available.. thanks in advance..
+Does it support portrait mode 
+Does Redmi note 5 have portrait effect
+do it need an extra scr
+Is mi note 5 speaker better than mi note 4 or same
+plz tell me about downpyament
+Does it has smart face lock
+does this mobile have cod
+what is difference between notr 5 and 5 pro
+I can use two Sims and meomry card at time
+Have inbox contain ear phone
+Portrait Mode Available In Back & Front Side Of Camera 
+main diff between note5 and note5pro
+Does it has face unlocking in mi note 5
+does it has fingerprint sensar
+Do it have a face id option
+which one is better redmi note5 or Asus zenfone Max pro m1 
+is its speaker louder than mi 4A
+Does it has an earphone jack
+mi note 5 which colour is best , white or black
+how much volt charger coming with this mobile
+does this phone have face unlock sensor
+does this phone have remote features in it
+what !it contain mobile  acceriess with it .
+can we play PUBG mobile at high settings with no lag using this phone
+what is the output of charger coming with redmi note 5
+Does it have gorilla glass 4 
+is the phone contain charger ,headset 
+is this support vodafone 4g network
+samsung galaxy j7 pro vs redmi note 5 who will won
+vodafone 4g support
+does this phone have facial unlock
+What contains get under box of mi note 5.
+Which one better mi A1 or Mi max 2
+Does it have face access 
+does Redme note5 has FM radio
+do we get heatset 
+Does MI note 5 pro is water proof
+redmi note 5 vs honor 9 lite which one is bettre
+Charging capacity timing
+is there any chance for an update ..to oreo
+It has multi tasking features
+Does It Have A Screen Guard Inside The Box Or Should We Buy IT
+whether we can use other headset with this phone
+what is the difference between mi A1 or note-5
+Does it have a fast charging facility is it a USB C - Type port
+Can I play PUBG mobile on balanced graphics without lagging
+when  redmi note 5 4GB 
+ will come under 10000
+Does it record stereo quality audio like note 4
+why is their a price different between redmi note 4 and note 5 
+charger or ear phone available
+Does we use this phone while charging
+what and all it contains in a set
+which mobile is betterRedmi note 5 or Redmi note 5A
+does this phone have ear plugs
+Does it support both 4G network sim slot at a same time
+does it has screen mirroring option to operate on tv
+Does note 5 have remote control as like on other mi systems
+Is dis cell global sim or only Indian sims
+octa core or deca core which is best one.
+How much free ram it has from 3gb
+Does it face unlock system and if not can do update
+can we use its charger in any normal 
+sockets
+honor 9 lite is good or redmi note5
+Does it have a potrait mode option in both rear and front cam
+us this device is upgradable to Oreo 8.0 
+When i am able To buy mi note 5 in blue 4gb ram 64 rom plzz Do it fast Waiting...
+Does Redmi note5 support Tv holder
+Which is better MI Max 2 or Redmi note 5
+has it got lpddr4 ram
+this phone can capture 3d picture
+can we use two jio sims at the same time, i.e jio+jio , in the sim slots
+does it have earphone with this product.
+Which would be good 3gb or 4gb
+I have got a piece where the sim tray metal head is a bit loose. Is that the same for everyone
+did mi note 5 the protraiat mode 
+Does it have on screen buttons or not
+mi note 5 long lasting mobiles or not .
+face lock are it eligible
+Is it good for selfei
+i am confused which phone to buy mi note 5 with 3gb ram or 4gb ram 
+when is the date for redmi note 5 blie colour mobil sal
+Sir, I am using this phone in one Memory card and two sim card
+does it's have dual 4g sim slot
+does it's have dual 4g sim slot
+whether it supports virtual reality headphones( vrx).
+phone hv heating problem while using or charging
+jio sim is applicsble
+does this mobile is better than realme
+how many hours does it works
+which phone is better redmi note 5 or honor7x
+Does Redmi Note 5 support Screen Mirroring/Casting
+does memory card have seprat slot from sim slot or inbuilt in
+does the new update habe face unlock for note5
+how many hours does this newly brought redmi note 5 mobile be charged for the very first time
+why dint i recieve the earphone
+does this support airtel volte as i have redmi note 3 and it doesnt support volte while jio supports it.
+how big is the screen can i read a book clearly
+why you are  in Flipkart platform
+How many Sim and is micro sd allowed
+this phon is watreprof or not
+does it have wide selfy 
+Can It supported Vodafone 4g 2100 band or not
+does it support in other countries
+does it have Dual sim 4g standby or not
+does it has hotspot
+this phone have fingerprint app lock system
+what is the screen resolution
+I am employee.. My priority is voice call, hearing from opposite site and network signal strength.. Which phone is best for me Samsung galaxy on max or next or redmi note 5
+witch the better of both vivo y71 or note5
+show down the cast on redmi note 5
+Which is the best in all things . honor 9lite,honor 7x,redmi note 5
+Can we  connect  it with a gamepad
+has it included fast charging charger
+Does the mi note 5 contain vr set with its box
+does this product comes with gorilla glass protection
+it will upgrade in MI UI 10
+does this phone blast
+mi note 5 has a hd display
+Does mi note 5 pro have all the features of vivo v 9 What's the difference between these two
+Is it connect with all AC and TV
+can i use moto G4 turbo charger for charging this. which ear phone give the best sound in this phone
+DOES IT HAS CLONING FUNCTION AND CAN WE TAKE 3D PICTURES PLS ANSWER FAST.
+is heating problem damage the phone very soon
+how many exactly spaces we get out of 64 Gb Internal space
+does the note 5hanging
+which is best red mi 5 and red mi pro 5
+red mi note 5 mobile can be support 4g lte  networks for dual sim    ex....sim1 lte sim2 4g.              this mobile is volte mobile
+is there anyone who got an update Android Oreo of this phone
+Who is this better phone redmi note 4 or redmi note 5
+It is amold display
+How can I repear the damaged glass of my redmi note 5.
+Does we can blur the background of an image taken in this phone
+Does it automatically records the call
+any heating problem in this device redmi note 5
+is lreffered network type 3g only/4g only option availible in this phone..
+does it support 128gb memory card
+Does it have 4g jio sim
+Does it have a extra slot for memory card apart from 2 sim
+which is better vivo y69 or MI note 5
+Redmi note 5 or Samsung on max Which phone is the best voice quality and signal strength
+in this mobile which is best stable version or beta version
+which phone is the best honor 9 lite or redmi note 5
+does both speaker works
+does both sound works or only one
+want ask that in note 5 there is 2 sounds there in it does only one work or both plays
+DOES IT HAVE CORNING GORILLA GLASS 5.
+Redmi note 5 sim card slot applicable
+If i buy mobile online is it safe 
+what is a handset
+Do it have high internet speed in 4G
+dose it have clear motion
+how many radiation of this phone
+this mobile which date book
+what is the length and breadth of this mobile
+Is this mobile support v city game without hanging
+Which Colours Looks good Gold or black 
+does it have on screen keys
+does it reboot to safe mode
+can it support PDF file with down load
+wireless charger is redmi note 5 is working
+Can I give mi 4 and get mi note 5 with some extra cost 
+which colour is best (black...white)
+any face lock update redmi note5 mobile
+Does it have dual 4G stand by at a time
+is redmi 5 is water proof
+can i used two sim card at a time
+does it support to control air conditioner
+is this phone dual sim 4g stand by
+how many slots
+have it screen guard
+which is better moto g5s plus or mi note 5...
+which colour is good and nice looking gold or black
+Can we get flip cover and head phone or screen guard.
+what comes on the box with the phone 
+is this mob blast new news yastrday mi 5 has balst. ans me immedttly
+experincing any heat while using or while charging 
+Does it have multiple window Like 2 app using same time one half above and another below...
+does it contaims compass
+which phone is better note 5or note 5 pro which phone I should buy
+Is the mobile doesn't have nauget software version
+Does it work nepal sim
+i want redmi note 5 blue (4GB RAM ,64GB ROM) when i get it
+is headphone with the handset
+does it have reading mode
+does it support face unlock to redmi note 5
+is there any reading mode such as note 4
+Does is support volte because my does not receive any call when my phone is in 4g,does it does the same,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does the phone have DALR effect
+Does it comes with a screen guard or I need to purchase from somewhere else
+Which is best colour blue or black in MI note 5
+can i set multiple fingerprints lock
+does it have 2 whatsapp as well as 2 facebook 
+batery power redmi 5
+this mobile have blust
+Does it have Blood pressure Measurement Sensor
+is this phone has a dsrl effect upto range 7000 to 14000 some people said note 5 doest have dsrl effect
+my mobile is heating can it happend the same to anyone else
+does it have Dolby sound enchangement
+does it support second space
+this mobile have a faceunlock
+Does it support other country sim
+is this phone supports all jio 4g bands
+in mi multi window is there
+handy phone or not
+Does it supported 1TB through OTG
+Camerawise which one is better between Redmi Note 5 and Redmi 5A 
+with mobile which item came like charger
+Is it better than samsung on max
+which is  best Redmi note 5 or gionne A1
+need to use 2 sims and memory card at same time u have other in redmi
+Does this support mhl kit
+how is headset sound quality
+which is better infix hot s3 or redmi note5 
+is this mobile is fast charging
+does it support split screen
+does it have dual graphene sheets like note 5 Pro
+Does it have memory'card option.
+Whether Idea 4g is working well with this phone
+how much mi note 5 4 gb 64gb
+Redmii Note 5 64 gb support 2 simcards 1 memory card at one time
+is this Mobile screen curve
+Will this model get Android Oreo and Android P update if yes, when
+Does have this mobile face lock
+Why my card is not supported
+we will control the sun direct receiver or not
+Can we play GTA san andreas Asphalt 8 
+Did this mobile supports morpho(finger print) device.
+what u prefer to by note 5 or note 5 pro
+Which is better Note 5 or Note 5 pro Anyone can give pros & cons please
+Does the mobile heat when I play the clash of clan game
+Does the phone heat when I play the clash of clan game
+Does it support playing music while calling
+what does PIN 112 means which is given after the ekart wish master phone number
+Why redmi phones do not come with extra dedicate micro SD card slot 
+which sim should we use fast
+it have screen cast  tell me
+Have a ear phone
+Can we make conference call in note5
+Does REDMI NOTE 5 has face unlock system
+I need 5 inch display with 4 GB Ram , 64 GB Memory. Is available 
+This Phone  Support Gujrati language
+is it redmi not 5 heating & hanging problem
+is this mobile is shockproof
+Manufacturing year note 5
+stabilization have or not consist in this phone
+which one should i buy mi note 5 or 5 pro any special difference
+mi note 5 is a second class mobile ah
+Face unlock is there Sound is better than Redmi note4 
+How much centi meter(cm)
+dose it have blure background camara,
+Redmi note 5 have finger scanner
+Does it have bokeh mode in camara
+media tek processor avail
+Can u tell me which type item in the packet
+is there screen mirror to oparate  tv
+will i get gst set off
+does it have a face unloke option
+does this phone has NFC connectivity
+Redmi pro 5 or vivo 9 I'm confused between 2 please help me out
+which type earphone it support
+which is the best as compared of infinix hot 3 and redmi note 5 
+Why no head phone in the package
+can we control tv
+potarit mode is there or not
+Is there having separate slot for memory card and sim
+latest android version in this phone
+did this have slow motion
+face lock facility y or n
+How many of you are facing this headphone icon stuck problem Is there any remedy
+Does this phone support lte on both sim slots at the same time like asus  max a1, i mean at the same time
+is it have any dslr feature to blur background
+does it work on international sim cards
+will face unlock come to it or not  what is the cam quality audio quality front cam quality
+which phone is best xiaomi or Huawei on the basis of performance and speed
+What is the width of the phone
+Confused between moto g5 plus and redmi note 5  Which will be better
+does it have smart split 2. as vivo v7
+it has temporary glass when u pack
+is there is need to paste screen guard on it
+which mobile phone is best mi note 4 or note 5
+it has adreno or mali
+is the phone is better than apple
+This mobile we can use other country sim 
+does this phone has bokeh mode
+Does this phone support voLTE calling fot goth sim-1 and sim-2 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n????????????????????????
+does its get heated often wen v use net or ph frequently
+is it has face reader locking system
+which is the Android version of Mi note 5can updates increase the version or not.
+which phone is better honour6x or redmi note 5
+Has it a removeble bettary 
+is note 5 pro metalic body
+It is Qualcomm Snapdragon 625 or Snapdragon 450
+does it have waterproof
+Does it have any heating issue 
+I am asking this because I bought this phone today and when I am leaving it for charge it is producing heat.
+what is dslr camra
+it has Bluetooth or not to connect Bluetooth speaker
+Is this device assure fast charging option like S9 or iPhone 10
+which is better Vivo v 71 or mi note 5
+did this phone has protected by glass already
+Dose it have metallic body
+Cast screen support or not
+when will blue color on stock
+how much of time i need to put charge for 1st time new mobile
+which one is best Samsung Galaxy on max or note 5
+In future update can we enable face unlock in this phone
+is HD sAMOLED screen 
+why redmi phones network receving strength is poor
+can i pay through paytm
+Is there any hanging in the phone while more using
+How is the internet speed
+can I get bill in my gst number
+Which is better zenfone max pro or redmi note5
+Will it support mirror imaging for u tubd
+redmi note 5 has a fm 
+bajaj finance is note availabale y
+which list of products in booking parcel
+why theres no headset with the phone as other phone have 
+Asus zenfone max pro m1(3gb) or note 5 .which is better
+does it support computer software
+can i run 2 jio sim card in same time
+which colour is best to buy
+what is the SAR value of This mobile i want both head value and body value
+In which update we can receive face recognisation in redmi note 5 mobile
+Is redmi note 5 has face unlock option is any update
+Does it support face lock feature in oreo updation
+it is waterproof or not  can i take selfie with under water
+is this mobile redmi note 5 waterproof
+which color is good for boys
+which one is best this or redmi note 5 pro
+I want redmi note 5 64gb,4gb ram ( baby pink color). its best or not please say
+Which is better redmi Note 5 or honour 9 lite
+Is this better than 10 org phone
+where is the duel sim slot for
+it become heat when we use long time
+pls tell me face unlock is avilable or not
+note 5 is upgradable to oreo after buying. yes or no
+I have received this phone from flipkart but have some issues in using it. it says turn off the USB storage. but on internet there is no specific instruction and in settings as well. please help.
+which colour is best for women
+which Headset is best for RN5 Pro
+which color best black or gold or blue
+does note 5 has face unlocking feature
+is this a full hd screen mobile
+Which mobile phone is best lenovok8+ and redmi note 5
+which Head phone is best for Mi note 5 
+does the box from flipkart contain earphones
+redmi note 5 have a front portrait mode
+Does thi mobile supports sytem update to change the version
+did red mi note 5 can support 2tb hard disk in OTG
+is it having multitasking window
+Camera clear or No
+note5pro is waterproof or not
+mi note 5 is waterproof or not 
+how much space it has
+does note 5 will get face unlock 
+is this support hotspot
+does it have matel body!
+can i play psp game smoothly on this device
+is this have finger sencer
+much better ..mi A-1 note 5 and note 5 pro
+Does the set come with screen guard separate or pasted on it.
+which is best either honor 9 lite or this
+does fingerprint lock requires PIN also 
+it's support two whatsapp at same time
+which colour is looking cool Except black
+Does it support fast charge Would appreciate if you could let me know the breakup as in 0to 50% , 51 to 100% in terms of time.
+How much I want to pay by using debit card 
+why it does not have same colour both sides for gold and blue phones
+note 5 pro have normal led tv screen mirroring
+Is there facelock for redmi note 5
+hey i just wanna ask that are we getting any headset as it is written in the specification that we will be getting it
+Slightly confused about display, is it having both HD+ and ips display or how it is
+charging time of note 5
+Which colour is better.Black or white
+does it support wireless charging
+will it have headset
+which is best redmi note 5 or Moto m
+which one is the best ios phone for the 1st tym iphone user.....iphoneSE or iphone6 
+Did anyone install Ola app on this phone  Are you able to login into the same 
+Is it works both speaker while playing music Is it happening with all
+does it have bookeh(blur) effect.
+does it support 2 sim card and sd card at same time
+brightness are low n high is this phone have senser
+in flipkart they a mentioned earphone is available in box is it possible
+does it support sd card with both sim
+in this mobile how to add a sim
+redmi note 5 is best or vivo v5
+is both the sim slot volte supported
+which colour is best unique colour gold, blue or lake blue
+which phone is best mi note or lenovo k5 note
+operating system is MIUI or norml android Also, earphone jack is at the bottom or top
+micromax infinity pro and note 5 both with 4G ram specification, over all which s best 
+It prefer 4g,3g or 4g,2g at the same time
+does it Android phone
+Can I confrance call in this phone
+How to get jio sim with it
+non removal baterry availabla or not
+torch redmi not 5 yes or no. -samsung menu task bar option. model icone. yes or no
+fm radio redmi not 5 yes or no
+It is a high bass speaker
+is redmi note5 support 4G
+do redmi note 5 electronic compass
+Camera  Comparision between A1 and Redmi 5 which is better
+In future updates will come
+Can I login in my google account and sync it, as dobe in Samsung phone or is it compulsory to login through Mi account
+which one is better mi note4 r mi note5
+This mobile has face unlook 
+most probably mi phone gets heat, why
+Auto call recorder available yes or no..
+Does it accept double sim and memory card at a same time 
+is it has magnet sensor
+does this phone is having the function of auto off and on function
+what is manufacturing date
+does it has screen recorded
+what is different between note 4 and note 5 and 5pro i am going to bye but I'm confuse suggest me
+mobile size is 5.99" so, 
+when we going to use  we fill comfortable or not
+Can use two sim and a memory card simultaneously
+which one is better vivo v9 or mi note 5 pro
+does redmi note 5 have hide app option.
+does the phone have hiding option
+can we play gta 5  in pro
+Which android version on this phone
+When note 5 blue 64 GB will be available 
+is it having screen mirroring or screencast/miracast function
+does it mobile have gorilla glass
+can it blurr background
+it has mirrar cast for function for my led tv
+What about the SIM card where it is seted outside or inside of the phone
+can i get bill with my gst no.
+mobile show only one sim volte second one show only 3g
+in box it contain transparent cover or not
+will i get screen gaurd with this or i want to buy an extra screen gaurd
+It's full metal body
+How to insert dual sim
+redmi note 5 support vr
+Does it support both 4g sim simultenously
+does it has dual sim 4G support
+total how my slot in note5
+does dual camra in back side
+it support 2 sim & 1 memory card at a time in slot
+mi note 5 is better than Samsung Galaxy on max why
+Micro SIM or Nano Sim
+Is the speaker better than any other smartphones
+do we get charger with an does it suopporte otg
+Why only 2gb RAM is available in 4GB 64GB category of Redmi Note 5
+mi note 5 do not booking plz sis help me
+which phone is best mi y1 or mi note5
+Does it has stereo speaker
+His this bost charging
+wich is best phone from redmi note 4 and note 5 pro
+Is note 5 have curve screen.... Like nokia 6
+Does it support fifa 16
+Is pouch available in box
+in this product finger print opion is avialble
+dulals sim 4g use same time
+Is it have 3.5mm jack as I am not find in above pic
+This mobile support Tamil language
+it has scratch proof screen
+it is necessery tempered glass
+it support otg pendrive
+does it support miui
+which phone was best honor 9lite or redmi note5
+In redmi note 5 display is good or bad quality
+Is it volte phone
+dose it have memery card slot dose it supports OTG cable 
+Do it will get any ota update for face unlock like redmi note 5 pro
+does it support Qualcomm 3.0 fast charging
+Both SIM slots can run 4G network or 1 will be 4g and other 3g
+Is it light weight
+which is better mobile mi note 5 or moto g5s
+which phone is better to buy MI NOTE 5 OR NOTE 5 PROPLS SUGGEST GOOD ONE
+Does it work on 2G network
+DSLR Camera features is available..
+note 5 having portrait mode 
+This phone dual 4g sim standby or no
+redmi note 5 music sound quality is good or not please say
+Dose it have patriot mode 
+Can I record my calls Does it has any inbuilt function or should I use external applications
+Does it have overheating and speaker problem
+i want to insert 2 sim and memory card..can i do this
+Does this mobile support dual SIM cards 
+when will the xiomi company will give face id update through ota and do they also give Android Oreo update but i need only face id update
+ROM 32GB or 64GB
+in this mobile can we use  2sim and 1sd card at same time
+it can able to click low light photography or not
+What is the PPI of the display Is the display better than k3 note's PPI
+Does it have Gyroscope 
+Should I upgrade to Redmi note 5 from Redmi note 3
+difference between mi max and note 5
+does it have portrait mode on mi note 5 like mi a1
+what about the heat of this phone in Continues use
+which is best mi note 5 or infinx zero 5 pro 
+It has dual sim cards or not
+wich colour is best gold or black
+is batery removable
+Redmi note 5 support V/R box
+is it available with lesser display
+how good in low light photography
+what is a different between note 5 pro and note5 plz tell abt both features
+what are the differences between mi note 5 pro & note 5 
+Does it have resale value
+is it worthy to buy note 5 instead of note 4 as a first user of redmiplz ans me
+which is best redmi note 5 or 5pro
+Does it has ear bluetooth option
+it's priversy lock work on finger print
+any mi note 5 pro available EA mall chennai..
+Mi note5 will work in USA
+is the screensize same as mi max
+have it bokeh mode
+samaung j7max display or redmi note5 or note 5 pro display is better
+which is good Redmi 5 or Redmi note 5 and moto G5
+its finger print is with sensor or not
+redmi note 5 have corning gorilla glass 3
+is redmi5a is volt
+which Ram is better for this mobile 3gb or 4gb
+Is the phone is good for heavy games..
+does it have screen shot feature
+What is verson of this mobile
+Dose it have remote
+which is better  Note 5 or Note 5 pro ...with reasons ...
+does have Gorilla glass no need other safe screen protector
+can we call without enable mobile data
+which of them redmi note 5 or note 5 pro have the option of cast...
+how much storage is available for usage out of 64 gb
+Is it available flip cover for Redmi note 5
+which time it will be available for sale
+does it have dedicated slot for sd card 
+it have blurr
+how's the reception
+Redmi Note 5  OTG supported
+which mobile clock speed is better note 5 or note 5 pro
+is screen is gorila glass
+Does redmi note 5 get hot after 1year
+can i buy 2  redmi note 5 mobiles in flipkart
+it is anti glare or not
+what is the feauters of mi note 5
+is it a dual 4GLTE phone, I mean does both 4g sims work simultaniously
+have a remote redmi
+does it have android 0.8 oreo or not
+is it get in cities
+How is it cemera work
+which colour is decent
+gesture screenshot in note 5
+which accessories get to buy with mi note 5 
+does redmi note 5 have over charge protection
+Does this phone have only android os
+1% to 100% charging time
+What kind of sim slot in it. I mean 2 sim cards and 1 memory card at a time or 1 sim and 1 memory card at a time
+This is any heating issue
+it have faceunlock
+Note5 & Honor 9lite which one better
+Chromecast support is there
+how to buy flipcover and earphone of redmi note 5
+While playing music only 1 speaker is working
+Can I use 2sim +1sd card with at a time
+is redmi note4 64gb better than note5 64gb
+is there any other accessories in the box 
+does this mobile have a liquid coolifying system
+dose it support Bluetooth
+call conference features ....
+Does it have e-compass sensor
+why only 1 speaker is working
+Does it make clone apps and does it support hide app icon
+can an international sim card be used
+There is two bottom speaker. But one is not working during playing music or call. Is it happening with all
+Hang or not Mi note 5
+Does there any note pen for the touchable screen of the mobile
+Does it support 4G Volte
+fringer looking phone
+does it blur the pic
+Is this device good for gaming
+does it have two 4g sim slots
+Has redmi note 5 dust prof
+Which colour is bst black or blue
+does otg pen drive support
+how much years redmi note 5 can survive
+does red mi note 5 has face lock
+PORTAIT CAMERA MODE IS AVAILABLE ON REDMI NOTE 5 
+This phone have gorilla glass for display
+Selfi will be good
+do both sims support 4G +4G network, simultaneously 
+Is redmi note 5 will good selfi
+does  this mobile has  fast charging
+Is it compatible with Vodafone 4g
+does Redmi Note 5 has Face unlocker
+is there back cover in the box
+if redmi note 5 has face detection
+will i get earphone in pack i placed order on 5 april sale
+What about sound in note5
+Can I use fingerprint sensor to take selfie
+When ever it wilk be sell
+fast charger 9v 2a mi note 5 sport yes no 
+Can we play games like The Walking Dead 3, Batman: The telltale series on this phone
+i have a feature of split screen
+When will came redmi note 5 new version
+does it support app lock
+does it supports Google assistant
+does it have google assistant
+it can root
+How it work remotely control
+Is it have fhd dispay
+Can i get quick charging option in this product
+Does the phone gets hot after using for sometime
+does it come with earphone and backcase
+is available  face unlock feature in note 5
+Does it have audio plug
+headset in tha box headphones
+Which is best hoonar 9lite and mi note 5
+note 5 4gb ram 64gb rom combinesition why not available
+does it have any bad effect due to overcharging
+Mi note 5 OTG support And Ac,TV senser support
+in redmi note 5 , infrared sensor is there or not (to control tv like remote)
+redmi note 5  face id yes or no
+ois this any heatup while using and charging
+We get headset with the fone
+Does this phone have home button and where is it
+Where is the backbutton of this phone
+can we get mi note 5 back case in box
+which phone is better between mi 5 and mi y1
+dose the phone blast
+in this phone(note 5) depth mode available
+Can this mobile run PUBG Mobile without fps drops ant high graphics
+dose it have portrait
+does it will support face unlock feature in future 
+which is better infinix hot s3 or redmi 5...
+it have 2 4g sim cards and memory card option at 1 time
+redmi note5 mob LTE network show in mob 
+Can i be sure of receiving the right product and what can i do if i don't receive the right one
+This mobile has face unlock
+this mobile have any speaker problem
+Which is best honour 8 or redmi note 5
+this mobile mini fan working yes ya not
+Why does this phone heat while charging
+Why Mi Note5& Note5pro Dont have Dolby Atmos Sound Tachnology
+call recoding option inbult or not
+Does the display have gorilla glass protection
+Did it support Mi 2000maH power bank with 9v/2A output
+how much time I am wait for blue color mi redmi 5 pro in variant 4gb ram and 64gb plz tell me
+Does it have bokeh mode
+does it have gyro censor
+Is it having gyro censor
+Redmi 5 and redmi note 5 all are same or different models
+Can I use three sim at a time
+is the charger wireless
+does it gorilla glass.not mention in specification
+when it will lauch
+What is the covrage area of ridmis speaker
+Is this phone have theme store like note 4 
+When my Brother by Redmi note 5 it only have 23 gb internal storage I don't understand Please answer me.
+How much ROM available for user in 32 GB variant....
+when are redmi note 5 (4GB,64GB) booking date and time 
+Is it contain charger and earphones with its set
+does this phone connect with projecter for PDF study purpose
+does this mobile has dslr effect like mi A1
+does it become so hot 
+Redmi note 5 has radio
+please give me suggestion 
+which is best redmi note 5 or redmi note 5 pro
+how is the mic quality while recording
+Which is good...mi note 5....Nokia 6....Moto g5 plus
+will get marshmallow when it update
+when this phone is relese  in flipkart  plese give me the date of release phone of redmi note 5
+Out of 64 GB memory how much GB is free for user
+Redmi note 5 can it upgrade on time by 
+itself
+How can I get this phone and when released this phone
+we can open the back of redmi note 5
+Charger is heating 2 much and mobile also when putting for charging
+it have inbuild call recording system in 2 slot
+is enable wi fi calling
+Is there any information about Oreo update in redmi note5..
+redmi note 5 is waterproof
+2 sim card + 1 micro sd card attach togetherlly
+Which one is better Samsung on max or redmi note5
+redmi note 5 metel body yes or no pelaese telme
+which one is the best in cemera
+How Is The Ram Management Of 4 Gb Redmi Note 5 
+why this phone is not get in flipkar
+when will launch this phone
+backside mettle body 
+What are the accessories company will provide
+two jio sims are working at a time
+does both note 5 or note 5 pro both have nfc feature
+Does it have infrared to control tv or home theatre
+Which date sale start redmi note 5 
+Does it support wifi and hotspot at the same time 
+in this mobile gorrila glass or not
+Can i use credit card
+does it have portrait mode in mi note 5
+Is this having face sensor security
+while. using data,  it gets heat or not
+which one best phone honor 9i or redmi note5 pro.
+Is it have noise cancellation
+in this box we have head set
+is the glass un breakble
+can we connect with tv
+redmi note 5 has a different memory card slot and 2 sim card slot
+does it have hybrid slot or different slot for sd card and for two sims
+which is the best note4 or note5.. whats the diffrance. or suggest me best buy at 12k
+is note 5 come with auto focus
+at one time 4g+3g sim stand by
+Does it come with a screen guard or we have to buy tempered glass 
+does Note5 has slot for 2nano sim and 1SD card slot can we put altogether in this mobile
+Is Google Play already pre installed in it or do we have to download it separately
+Does the phone gets heated very quickly
+4gsupported or not
+what is the processor of this phone 
+Which procecer is best redmi note 4 note 5 or note 5pro 
+will it get the update for face unlocking
+does it support 4gvolte in both the sim slot
+support other sim
+does it have hybrid sim slot and fast charging
+this mobile 2sims and  sd slot
+Is it feel slippery without a back cover 
+Currently in which system phone is running on
+Does this mobile have split screen option like honor 9 lite..
+Does it has face unlocking system like note 5 pro
+is that necessary first charging for 6hours
+is this have inbuilt call recording facility
+support dual standby 4G volte
+mi a1 or mi note 5 tell me the reson too..
+this phone is used in UAE......
+any comptitor phone for redmi note 5 
+which one is better motto g5 s plus or this oneany specific reason
+What r those holes given in bottom on eiyher side of the charging point
+Can this phone play Rules of Suvival with ultra graphics and high frame rate mode without any lag issues
+Which one is good to buy  A1 or Note 5
+Is this mobile slim
+When I am changing SIM Slot One to SIM Slot Two for internet then why not come SIM slot one networkThe SIM slot one   has a jio SIM card... Tell me what is the problem with mobile or sim
+its camara front selfie view is goes to mirror image why
+does it has screen mirroring ,screen cast  option i.e.. wireless conection to tv
+mi note 5 speaker one or two
+which colour is better among gold and blue
+does it require screen guard or any screen protector glass
+which is better honor 7x or redmi note 5
+Which Colour Is best  plz eveyone answer...
+Is there any  back cover in the box 
+Is this phone too big for one handes users
+why ear phone is not provide inside the box
+did it has screen mirroring
+Cast or not
+will the two speaker work while playing music
+When this mobile (note 5) will come in market
+does it support 4k viewing in you tube
+It is coming with In built Gorilla Glass
+Do Redimi Note 5 has Octacore processorWith Snapdragon in it
+When phone selling in market
+Does this phone have Double tap to wake feature
+a1 and 5pro is difrent
+it has mirror casting 
+How much long is this phone
+Can we play GB games
+lenovo k8 note and redmi note5 which is better
+Please suggest if it got Type C charging port or Micro USB port 
+it has face recognition option or not
+does it have apps lock option
+is this mobiles contains fast charger in his box
+My redmi note 5 asks for update. Can I do it now. Any one done it earlier. Please inform if any issues after updating to 9.1 version
+Does it support micro sim
+is it slim as oppo f1 s
+Is their any other way to place order on note 5 pro
+do we get headsets with mobile
+i can use 2 sim and memory card at a time. for this mobile
+This mobile in water proofing
+when to full charge the phone Quickly after buying the set or after first time discharge..
+How is its sound quality for call 
+which is the better between mi ai and note 5
+Should i buy note 5 or note5 pro or may honor 9 lite
+what are the modes in this for  5g connectivity
+Is handset in Box  I got New mi not 5 but no handset in Box..
+This phone was 5g supported 
+which tempered glass best for redmi note 5
+does it have issue similar to Redmi note 4 like blasting or Over heating
+can we unbox this phone screen like Samsung s8+
+what means of gorilla glass and how to work
+does it with note earphone
+need this mobile screen protector or no
+redmi note 5 face lock option
+is this comes with screenguard  or need to put seperate
+How can i get GST invoice 
+It is stero speaker
+Is this phone have a sensor
+mi note 5 or moto g5s which is better in terms of build and performance
+How fast is the finger print sensor
+when i  get this
+how take screen short
+if i use internet continuously how much time it will withstand
+How is the Ear phone quality when pluggin 
+How much space available to out of the 64 GB internal storage
+no earphone in case
+What is the sound frequency for this mobile
+about sound quality
+vodafone 4g not support mobile
+This is 4 g set or not
+inbox earphones charger is there or not temporary glass pouch
+samsung galaxy Ace nxt
+does it have qr code scanner or reader
+Can this device have a facility to automatic update Android version 8
+Which type of gorilla glass is used in here.....   1, 2, 3, 4, or 5.
+is this phone have curved screen tell me sir
+can i use 2sim and 1sd card
+Is gorilla glass present on redmi note 5
+what is the useable portion of the internal storage
+Redmi note 5 is better or redmi 5pro
+Does it have slide to call or message features
+how to gorilla class support 
+Does it have split screen
+What is difference between note 5 pro and note 5 4 gb Ram
+My friend told me.redmi note 4 have mic volume is low.this phone like any mic or speeker problem.this phone call quality for talking is good
+which is better lenovo k8 note or redmi 5 pro
+How can I get this
+does it have dobly atoms
+When it is realised
+What is the duration of sale
+does it have screen mirrorring
+network connection 4G or 5G
+can I use redmi note5 handset in UK
+this is volte set or not
+How much time running on whatapp
+Does it have facial unlock feature
+Can we play big mb games.
+Any problem changing with another charger
+Who is color for perfect
+Does it support for 5 GHz band for WIFI
+two bottom speakers or working or not
+why mi not provide headphone 
+Is the screen amoled  and also corning gorilla glass 
+is the phone 4g or 3g
+which one i should buy redmi note 4 or reedmi note 5 as difference is screen
+How redmi note 5 of 4 gb 64 gb is different from redmi note 4 and  note 5 is better than note 4 if yes why if no why not
+how much is the actual RAM usable out of 4gb
+Does mi. Provide a back transparent case
+what is snapdragon
+Which MHz in this phone
+Plz tell me, when launch I will buy.
+Full screen view or not	
+Does it has IR blaster to control tv air conditioner etc..
+is it having metal body are plastic body
+Dose it have two sim and a memory card slot
+is it have fonts style change setting
+how to book this phone
+It is this phone is 5G supported 
+Why redmi note 5 launched with older Android Os Honor 9 lite will be more advantage for this!!
+does it support volte & lte both 
+which phone is better vivo v7+ or redmi note 5
+Does it has blurr effect
+Is it have finger print
+whose cam is better asus zenfone4 selfie,honour 9 lite or redmi5
+dose it have screen share
+Does it take screenshot easily 
+Is thia phone will get oreo update
+it has dolby sound and menu option
+usable memory whats GB...
+Is it VoLTE enabled.
+Is it supports CDMA as well as GSM
+memory is expandable or not
+Does it compatible with VR
+which one is good, vivo v7 or note 5
+fm is available
+does this phone hace face unlock
+It has fingerprint
+is there have dslr mode
+Does it have LED senser
+screen share with smart tv
+what is the value of Head and Body SAR
+Does it have faceunlock software
+did it get hang
+is oreo update available for this
+in black color phone how much ram
+Is this phone having fast charging option
+Does it support Mirror link and Mira cast
+Compared with Redmi Note 4, what is great in Note 5
+does it has a full vision display
+Does it have auto call recorder
+Does the Redmi Note 5 Pro 6GB have FM Radio
+any heating problems like prior redmi variants
+Does it have high radiation
+It is waterproof  mobile 
+does it have face unlocking system
+if its heat like prime 2
+Can i use vr box in this mobile
+Both sim 1 & sim 2 support LTE
+It has finger print lock for one member or for many member 
+Is it universal remote controller
+As it having any hanging problem while using continously and heating problem
+Will this phone work in USA
+What is android vision
+when redmi note 5 launch...  date...
+call recording facilty is available or not
+does note 5 have auto call recorder inbuilt
+Does it have NFC connectivity
+does anti clear
+Does it has colourfull led notification light 
+does it supprt facelock feature or update is expected 
+what is the main diff bet the RN4 AND RN5 expect screen
+what processor does it use
+Does 'Redmi Note 5' support Google Assistant application 
+Does it have active sim management,  means phone call is on at 1st sim and do we get call waiting for 2nd sim
+What about performance of this cell.. Battery work properly
+Is the phone 4g dual standby....
+can I set songs as ring tones
+Can I using the micro sim
+When This model has purchase on a time
+does it have otg option
+Samsung or mi which is best mobile
+does it support selfie stick 
+does it has blurr mode 
+does it have VOLTE
+Is There was Portrait mode option
+A:it's has waterproofs
+B:while using over usage the mobile should be heats up or not
+C: Camera clarity in it how capture a picture what is the comparison
+is it has fingure print sencer
+it has fringerprint sensor 
+is the phone is heating too much
+It says that redmi note 5 has corning gorilla glass but which one it has gorilla glass 1, 2 or 3
+it as a potrait mode like mi a1
+Cast screen is available
+which one is better honor 7x or mi note 5
+does it support face unlock
+mobile have ir blaster
+How much time it takes to charge from 0 to 100%.
+is it volte
+Is it support dual.jio sims.
+why redmi note 5 pro not available for aurangabad maharashtra
+When xiaomi mi A2 will launch in india and what will Its price
+what is new in this mobile everything looks usual as note 4
+Does this phone has hybrid sim slot 
+Is it have fast chargingb  facility
+whch is best...redmi note 5 or honor 9 lite....
+Any heating problem while charging
+Support hindi language
+product is volte or lte or both it.
+does it have fingerprint Lock
+two sim slot and separate memory card slot available 
+Well,as it is showing in the specification that it has nougat will it easily get the new oreo version of android
+Which is better note 4  4gb ram or note 5 3gb ram
+Change font option available yes or not
+Having separate memory card slot
+best phone in a1 or  pro 5
+fast charging system are available
+does it have remote control system for TV and a/c
+Does it have a separate memory card slot
+in this phone charger pin is different
+is it supports 2g
+Whether dedicated SD card slot available
+Which one is best mi note 5 or Samsung j7 prime
+1. one sim and sim or sd card 
+or 
+2. duel sim and sd card (1nano sim+1nano sim)+1sd card
+is it having two sims nd micro sd slot separate
+Is it coming with stocked Android
+Is it hybrid
+when i get for buy in market
+with earphone  yes or not
+ANY ADDITIONAL  AS COMPARE TO REDMI NOTE 4
+deos it have fast charging
+Please let me know Is it haveing metal body
+It ddont have earphone
+It is sunlight display
+Does this phone has Hybrid slot or a dedicated slot for memory card
+what is the difference between redmi note5 and note 5 pro
+Which is best mia1 or mi note 5
+Is this phone better than redmi note 4
+what ia the different between redmi note 4 to note 5
+When will realise date
+does it has dslr effect
+which android is use in it
+Is both sim +micro sd compatible at a time
+Is there bike effects
+is it got seperate sd card slot or not At a time can we use both sim and sd card
+NFC OR INFRARED AVAILABLE OR NOT
+Does this phone have duel sim & memory card in use at a time
+Is this water prof 
+Camera is like Mi A1 means like DSLR effect
+does it suport volte
+when will come mi note5pro 6gb ram varient
+it's is a metallic body ya plastic body
+Hi,This phone come with 2 sim cards with 1 memory supportboth 3 working at same time
+what is the sar value of  the phone
+miracast is available or not
+Redmi Note 4 Processor Is Same As Redmi Note 5 
+from what time it can be booked
+can i play heavy game having 2gb memmory smoothly
+is this handset Support Direct Jio to Jio Videcall without internet connection ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+from where will i come back oe close the app because i dont find any buttons in it help me out
+which phone is batter MI A1 or MI Note 5
+does this phone have NFC
+Is this phone support both dual sim and SD card 
+is this water reaistant
+is it have metal body and two sim slots and dedicated micro sd slot
+what will be the probable date for the release..
+two sim 4g at a time
+does it have type c
+Difference between Redmi Note 5 and Redmi Note 5 Pro
+will Redmi Note 5 Support both Two Sim + Memory Card at a time
+What kind of screen it has TFT or IPS
+Redmi note 4 or redmi note 5 who is the best...
+what is special in this mobile
+Does this phone supports Dual Sim Card & Memory Card
+it is better then mi A1, HONOR 9LITE, GEONEE A1 VIVO V7 OPPO F1S,OPPO F3 PLUS
+Can we use both jio sims in this mobile
+Does it have USB Type C quick charging
+what is working dual sim with SD card
+Can i get a sample for my youtube channel
+what is difference between note 4 and note 5
+which phone is better "redmi note 5" or "redmi note 5 pro" 
+Is earphones will be available inside the box
+fast charging,Gorrila glass and type c charging available or not
+does it support quick charge
+can i use two sim & one memory card
+Is there any chaces for Android update after nougat
+fast charging support
+Is this phone support Fast charging 
+its mobile fast charging
+how to upgrade it to nougat
+Can it be upgraded to Android Marshmallow version
+it is 4g volte phone or Lte phone
+is there finger print sensor available
+Is it updateable to android nougat
+Does this support JIO Sim how are the speeds
+is this mobile volte
+is p1 turbo a volte updated or not
+is this phone support volte
+it has horilla glass
+its steel body
+how many sencors it haveand names of the sencorsis this water proof
+Is the phone water/splash proof
+Is this a 4G VoLTE enabled phone
+which colour looks more premium sterling blue or super black
+Is 4G supported in both SIMs (Simultaneously or one at a time)
+which type of charger port in this device
+is it amloled disply
+Does Moto X4 have a hybrid SIM card slot
+Is screen casting is available
+Which is better ,moto x4 or honor 9i
+which is better moto x4 or iphone SE
+finger print lock  yer or no
+which one is better moto x4 or one plus 5t
+Which one is better, Iphone 6 or moto x4
+I Like this Product.. I decided to buy this product but after checking the review heating problem and sudden switch off and bad service of flipkart etc i scare to buy this product what should i do
+Earphone is available with this
+What are the contents in the box
+Does moto x4 has fingerprint option
+Is there any electronic compass sensor
+I want buy this phone.Phone is looking awesome but doubt about phone back side glass... Is it safe...Breakable or unbreakable...
+Is potrait mode available in Moto x4
+on which side the fingerprint  sensor  is 
+can I take pictures  in under water and listening songs
+it is an andriod one phone
+Is this phone having Notification light 
+which Is better honor 9i or moto x4
+is it better than nokia 7plus or not
+how much storage is available in 32 gb varieant  
+Is Moto X4 supports VR box ..
+1.As some users facing problem like phone gets switched off automatically, any software update fixed the problem or not 
+2. how about the external speaker quality and loudness compared to iPhone 6
+Does it supporta 4G/LTE at indian connection 
+Is it better than motog5s plus mobile
+does this support fast charging 
+Does the phone stops by itself in the beginning
+Where is main speaker 
+Is it available in offline stores
+it is have face unlock system yes are no...
+Is moto X4 comes with android one in india 
+Difference between moto g5s plus & moto x4 why it is 6k more
+will thus device support moto mods..
+which color looks more premium
+can we use memory card and dual sim at same time
+is it comes with corning glass 5!
+how are its speakers  Does it sound loud 
+nokia 7 plus or moto x4.....which is better
+There are two version regular and android one it has been said. Whether flipkart provided regular or android one
+
+If both are available which variant is regular and which one is android one.
+does it support face unlock
+does phone have front led notification
+what's thebattry capacity with high internet use... and while normal use..how much time its take to charge full battry..
+Is it oreo or nougat with 4gb ram model
+does it has face recognition 
+Does this phone have super amoled display
+which phone is more slim moto z2 play or moto x4
+is this phone volte
+Is this a 4g volte enabled or updated...
+Is this phone is Android one  moto x4 Indian version
+does it have slow motion and time lapse
+What is the ppi of the mobile
+does it have face lock
+Does It have finger lock system..
+This phone have display night mode option...
+Does Moto X4 Has fingerprint lock
+CAN I USE 2 SIM CARDS AND 1 MEMORY CARD AT A TIME 
+The phone use dual sim with card
+is notification light is there or not in moto x4
+potrait mode is their for this mobile
+water proof it means we can dip in to the water 
+which phone is better between Moto x4 and Moto Z2 Play 
+many users are reporting network drops and phone switching off! is this issue happening for most models is it solved
+audio quality is better on mi a1 OR moto x4
+Does this phone have a reading mode
+How much storage is available for users to use
+Is this an android one device Will it get android P after getting oreo
+moto x4 speaker sound is pleasent or not because i bought this phone from flikart nd the mobile sound is irritating  i got defected piece or it sound like this 
+does it has a inbuilt incoming and outgoing call recording feature like Lenovo
+Is this device android one support Can't find any logo on back side and read that till Indian device didn't got android one support...
+Can moto x4 survive a 5 feet surface drop 
+does it require a mirror screen saver inspite of the gorilla glasses
+does the dual cam as blurr option
+does it (ois)optical image stabilization
+does x4 support native vedio calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+what diffrence ltps or amoled display 
+how much storage is available in 32 gb varieant  
+Is this phone supports for face lock yes or no 
+normal moto earphones are with this phone or different 
+This phone have only one speaker for listening and playing music... so decide accordingly
+oreo update stable for this phone
+Does moto x4 get Android P update
+is the touch is enable under water
+moto x4 vs moto g5s plus which one have better sound quality
+what are the problems faced after oreo update
+does it has optical image stabilization 
+this phone face unlock supported
+Which phone is better moto x4 or honor 9lite
+can i use this phone underwater
+out of the Box is it android oreo
+Does this phone have face recognition
+iam using mi A1 should i prefer taking this phone and why
+does this phone have face unlock option 
+Which is better Moto X4 or MOTO G5S PLUS
+it has front portrait mode
+its is hybrid sim slot
+since it has glass body in its back.......is it easily breakable when it slips from our hand suddenly
+how to take screeshot
+When you say it connects with 4 bluetooth devices, does it connect 4 bluetooth phones or bluetooth enabled speakers/music system
+i read many reviews.. ppl r complaining of their phones getting switched off automatically.so should i buy this phone
+can i access two 4G sims at the same time or not
+can i use moto mods with this phone
+can we expect a better performance than Redmi note 5 pro which is better under comparison
+can we take under water pic 
+which colour is look better...blue or black
+Does it gets automatically switched off like Moto G4 plus
+this phone have a bokkeh mode or not
+does this phone have IR
+Moto x4 is a budget phone on 25000 rupees
+Moto x4 have a sensor light ...when we chrge or sms notification sensor lighthave or not
+is it better than note 5 pro 
+does it can be taken inside water
+upgradeable to Android p
+does its do background blur
+Which type of scanner in this phone
+how was the speakers is it a dolby
+moto x4 or samsung s7 which is better
+does the portrait mode work accurately like redmi mi 1 or note 5 pro
+does dis have screen splitting
+Do the phone have virtual assistant alexa
+does this phone have face unlock
+it does have finger print lock
+Is this phone a part of Google Android One programme There's no Android One logo like they have in Mi A1.
+Does this phone support compass sensor
+does phone has gallery
+Will the phone work in the US and UK, 4G LTE and 3G
+motox4 finger print
+Is the android oreo 8.0 upgrade available on moto x4 4gb ram variant now
+which is best mobile infinix zero 5 or moto x4 or mi a1 (give me perfect answer)
+Is the  android oreo 8.0 upgrade available with moto x4 now
+Comes with Earephone or not
+Does this phone run on Android one, there seems to be no labelling for Android one on its back
+can we click underwater shots in it
+oreo is available or not
+which is better this or redmi note 5 pro
+is moto x4 slim as moto z2 paly
+which was the right choice, mi 5pro or moto x4
+does the phone have a front portrait mode..!
+Which is Better in Front and Back Cameras Samsung J7pro or Moto X4
+Which is motrola's attractive colour
+is this phone is fully water proof
+is it support two sims and one sd card
+how about sound quality.
+Is these phone is fully waterproof
+does miracast support'in this phone
+Hi, Can I get a GST bill for this purchase.
+It has facing lock
+Redmi note 5 pro or x4 which one is better one!
+how is moto x4 dslr quality
+how is best quality moto x4
+moto x4 automitacally shutting down
+Is it Amazon alexa or Android one unit
+Does this phone have the face unlock 
+can we use screen cast without using chromecast
+does it have alexa
+how is the volume system
+Is this phone waterproof or water resistant
+Is lg v20 or moto x4 better
+is this has inbuilt app lock
+Earphones buds type or normal
+does it have bolur option
+which one is better mi a1 or moto x4 for potrait modes
+Which is better moto x4 or moto g5splus
+can share display with smart tv(wi fi display)
+Screen mirroring is there or not
+why Samsung's Bluetooth devices are not showing when searching whether the audio device is checked and found ok.
+Is there a calculator in this mobile
+compare between honor v10 and moto x4
+does this phone have compass sensor.
+Is optical zoom available
+how's the output of front firing speaker 
+Is the snapshot Quality better than Moto G5s Plus
+how is the sound quality with high range headphones please help me
+Does it have better potrait mode than MI A1
+Thus it have infrared red rays
+will it be sold directly with oreo
+which is better moto x4 or mi a1
+which phone is better motox4 or mi A1
+This phone motors support VR box
+This phone support VR box
+Does this phone has finger print sensor
+there is overheating issue in my phone when i am charge.. can you give me the solution.
+Does it creats pictures as like as dslr img....when captured
+does it have a notification led
+does this phone has metal body or not
+is it water proof yes or no 
+only for  moto or lenova combinatoin
+does it have screen split
+in Moto x4 there is potraite mode 
+which best mobile phone  vivo v7 plus vs moto x4
+does it have compass sensor or not
+This mobile get dual SIM slot with memory card slot
+can i use internet while i am calling
+how much user memory is available in 64gb and is this suppoerting project fi android one
+Is it better then one plus 5t
+does this phone does better with 4k recording
+which is better moto x 4 or oneplus 5t
+Is the back strong enough to handle  shocks or if it falls will it break
+how much time to take full charge
+what things you give in box 
+is this phone is voice controller like moto x style
+hows the phone when compared to honour 9i
+Is this the android one variant if yes, then why cant i see the android one baddging at the back of the phone.!
+mi1's potrait mode or motox4's potrait mode is best
+Is it waste mobile
+Will i be able to update moto x4 with upcoming android versions other than oreo.
+Worst phone. Need to exchange. purchased on 22 nov 17. kindly advice.
+what is the best smartphone under 15000
+Is that lagging issue is get fixed
+is tish an adroidone device.Will i be able to update the upcoming softwares.
+my Moto X4 update 7 to 8.0 oreo after updating my phone slow working and hanging why
+does this phone has vr mode
+moto g5s plus or moto x4 which one is better
+Does it has wireless charging option 
+whats the total storage avilable in moto x4 64 gb varient
+Does moto x4 updates with upcoming android P And Q
+Does it have notification led indicator in front side of that phone
+can i play games in vr mode 
+which is better moto x4 or honor 9i
+i feel like  the processor is low at this price range.which one is good Snapdragon 653 or Snapdragon 630
+which colour is best for men, sterling blue or super black
+Does the Indian varient of Moto X4 has Android One
+This mobile have different sd card slot... or it have only 2 slot
+Is this phone useless without the mods
+can we call direct vedio calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+what is the meaning of resistant
+Super Black OR Sterling Blue
+Doea this have live photo clicking facility 
+which one is better motox4 or mia1 
+does it have nfc
+Sir can you tell me about moto x4 mobile heating or not... Mean depends to users
+i ordered this product two days ago , but still waiting for product... how many days it will take
+Where is the speaker in this phone
+is this phone supported dual LTE+LTE sim
+is mobile Best
+which color btw blue or black
+Is anyone facing missed call notification problem like me
+after android 8 upgrade the phone app is now google dialer
+does it has split screen
+is the speaker loud
+how much storage we get to use in motox4 64 gb variant
+which is the best moto x4 or oppoF5
+compared to moto x4 and infinix 5 pro
+compare to motox4 or infinix 5 pro
+well its a amazon alexa supported device but its nowhere on mobile as well app is not  responding its rediculus plz help how can i get supported
+Which power bank should be used for charging it
+does this phone have earphone Jack
+How is call quality in Moto X4
+does moto x4 have a second space option in its settings
+what about RAM management huge games can multitask in it
+we can use this phone in rain
+The buttons on the headphone provided in the box doesn't work. It has been only a week since i bought this phone. I don't know why the buttons on the headphone doesn't work I cannot receive calls.
+why is it shutting down randomly
+what about mods...did it have
+wich is better moto x4 or moto g5s plus
+is there a stereo speaker
+Does it has frint cam portrait
+how much free storage do we get out of the box
+wich colour is best for two mobiles
+i am thinking to buy moto x4 but i read the reviews about the phone getting automatically switched off. Is this problem now fixed
+Which better honour 9i or moto x4
+Does it have nfc
+does it have power full speakers
+When I slip on a ground the phone is break or not break
+hi i would to know moto x4 it's support compass
+does it have dash charging
+Does this phone support Video Calling directly through Sim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Dose it work Portrait mode as samsung s7
+what r the accesories in box
+which is the best opption between mi a1 , moto x4 and honor 7x
+Is it 18:9 ratio display 
+will the moto x4 get the Android OREO update
+what kind of display it is used
+which type of display it is used
+IS THE PHONE DISPLAY SHATTERPROOF
+Does both the Sim support 4g
+if we immmersed in water 
+will it be alive  can we fully dip into the water
+Does have amazon alexa.
+Can we connect mods to Moto x4
+which color looks better on Moto x4
+which phone is better in terms of look  moto x4 or mi a 1
+is there any sim tray pin inside the box of x4
+How much storage will be available in 64 GB
+VR BOX SHOOT FOR THIS MOTO X4
+Is this Barometer enable phone
+Does it support voice commands without touching the phone
+Is this mobile is safe when its fall down from hand. The gorilla glass is safe!
+Does it control remote 
+what time it takes to 100% charge means full charge.
+is this phone upgrade in andriod oreo
+Moto X4 Support OTG 
+can we use 1TB external hard disk for expandable memory storage instead of memory card
+is this phone comparable to Nokia 8
+What about the seconds of fingerprint unlocking
+where is the external speaker how is the sound quality through that
+does this phone have over radiation..
+what is one button navigation
+Is it true that its back is glass coated or covers with glass by default..
+does it support screen mirroning
+The earbuds do not fit my ears well. What shall I do
+Is this motox4 is made in china It is written on my device
+is it voltee supportedits not mentioned.
+does it hv portrait mode
+this phone is water resistant   can i use this mobile  during shaver 
+The mobile have plastic or metal body
+Does it have Dolby audio
+will it support OTG
+call recording facility available or not Ready to use third app if call recorder not present by default.
+Does it has dual 4g standby   I can use  2 jio sim at same time or not ...!
+does it contain a earphone or headphone inside the box
+that X4 is formed tieup to lenovo. so thatat process andi performance isat little to big not yetcontact changed ahh that onlycontact big doubtat about think that pls explain...
+does it switched off by own
+Will this phone support 5G network
+whether anybody checked screen mirroring in the phone.
+how much phone is slim
+which phone is better samsung j7 pro or moto x4
+does call record support
+back cover or tempered glass is included in box
+you have written that its open box ... what does that open box mean...
+Has the phone's auto shutdown then which a lot of people seem to be having ( as evident from the review section) been fixed
+which is best Honor 9i or moto X4 is this water resist!
+How many sellers are selling this bcz vison star had bad ratings
+Does this phone have an IR sensor in it
+does the glass back have any specific use or it is only for the looks...
+Is there still a switch-off problem in the Moto X4 phone auto switch -off
+does call recording support
+is it have face unlock system..
+Here you have written the open box, what does this open box mean...
+What to do if Moto X4 is getting random ShutDown many times
+How long stay mobile in water
+which colour is best to buy
+does the phone support two sim slot plus dedicated memory card slot
+is this device has moto gestures
+Does this phone has Alexa or Moto voice
+does it goeilla glass
+Is it running android one or stock android
+
+And what about back panel, is it gorilla glass
+Does it has Moto voice assistant
+Does it has Moto voice assistant like earlier Moto z
+does this mobile has conpass facility
+what is the hole near the fingerprint sensor is about
+is it android one version 
+is this phone has FM
+What's the total storage available for use in moto x4 64 Gb variant
+is it launch  Android one in india and it's support  Google fi project 
+Front and back glass aluminium body same as Moto Z2 Play...
+screen mirroring possible  on sony led
+which is better phone
+ moto x4 or z2 or z
+Is moto x4 glass breakable How can it be protected
+does it provide up to date updates that is 7.1.1and further
+is the charging port USB type C
+does it contain portrait rtrait mode
+does this phone have volte call features,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+any cast option will support or not and moto moods accessaies we can use this moto x4
+does it have NFC
+Does this phone have wifi direct  or can i mirror my phone screen to tv without chromecast or something 
+is this phone have fingerprint sensor. where
+What are all given with this phone 
+Does it have a compass sensor
+Is Moto x4 back glass replacement possible or not
+My moto x4 does not show Volte batch . Does this device support Volte or not . If it so How should i enable it
+memory is expandable
+does it has nfc and where it was placed in the mobile
+does this phone have fingerprint sensor
+does it have otg support
+Does this phone supports VR mode
+Is portrait mode is there for this phone 
+Does It have Video Calling Option,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i take this phone into swimming pool
+Which is better phone oppo f3 plus or Moto x4 
+can I use dual 4G facilities at same time
+quick charging available
+Does the tempered glass for this phone fit properly Because the phone has curved edges.
+where is fingerprint scanner
+When is Moto X4 going to launch
+How was the sound quality It has only one speaker right. how is its sound clarity
+fast charging yes or no
+Moto X4 is taking a lot of space after first boot up. why
+when i seeking my phone is that vibration part sound / ya problem in my phone
+does this phone has bajaj finance option
+difference between moto gs5 & moto x4
+Meaning of tb in storage
+it this having otg
+There is option wireless display in moto x4
+volte or lte
+its portrait mode function with its hardware or with software 
+is it single sim or dual sim please answer it
+Is this phone support 5g in future
+Is this phone come with android one system 
+does this phone have 2.5d curvature glass
+Moto X4 volte enable or not
+is this mobile have audio speaker&where it is
+Can this phone supports potrait mode
+IS REAR CAMERA IS BETTER THAN HONOR 9i 
+does x4 have fm radio
+does it bokeh mode
+Does this mobiles any Image stabilization
+Does it support OTG
+does it support pendrive
+is it has app lock in it
+can we use two 4g sim and memory card at the same time.....
+does moto x4 otg support
+is it compatible with international sim cards
+does any body faced a lagging issue during depth mode,frames lags in depth mode,what should i do
+this support two sim and memory card at same time
+it is a gaming phone
+Does the phonne will switch off automatically
+can moto modes be used with this phone
+Dose this phone support dual app
+Does it have Turbo Charging
+nfc support is there in moto x4
+does it have a face sensor
+i m not able to set mp3 ringtone
+does it have infrared function(ir Blaster)
+does it have call conference system
+Is this the Android one version of Moto X4
+Do we get sync with other fone message during start up
+can we use moto x4 under water
+is the a fingerprint sensor enabled phone
+Which one is best phone moto g5s plus or moto x4
+can we take pics under the water 
+is it metal body and gorilla Glass display...
+is it andriod one device..
+does this phone has finger print sensor
+Does the phone have notification light example if someone text us or if i have miscall should i know without unlocking my phone that there is some stuff happens
+how much storage is avalible to use
+is this phone have smart tv connectivity 
+are there different slots for 2 sim n one memory card
+Is screen split option is available or not
+does moto x4 have amazon alexa
+Does this phone has magnetometer sensor
+what about sound system quality & loudspeaker capacity... bcoz moto g5+ sound system not good..
+Where is the speaker of this phone
+There have Image Stabliser for click pic & shoot vide
+is this phpne compatible for using 2 sims and 1 memory card at a time....
+is it type c port
+I want to know Is this volte phone with respect to network type...
+is this mobile have oreo update and when it have it
+Does Moto X4 comes with Android one
+does it have alexa voice assist  on it
+is this android one phone
+Does it has wireless charging
+is it on android one platform, will it be updated on android 'O' and later on android 'P' 
+in compariaion of back cam which one should i pick, moto g5s plus or moto x4
+is it android one or not 
+is this stock android
+ 
+ 

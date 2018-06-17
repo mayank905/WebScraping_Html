@@ -1,0 +1,228 @@
+does it support direct video calling feature from dialerMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does the Galaxy S9 Plus support native video calling i.e. ViLTE (video over LTE) over Jio network Can you make video calls over LTE networks directly through the dialer app Please clarify.MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+it support video calling when data is of....MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Video calling can be from any 4G SIM.MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+dose it support native video callingMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n 
+does it support video calling and conference callMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it have video calling without dataMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make a direct video call by using jio simMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support volte video callingMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling from contact without any special applicationMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video calling in this phone without any app yes or noMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+have a video recording how in flash in front camera.MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it have video callMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support video callMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can I do video call without InternetMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does this phone support direct video calling without  internetMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it supports 4k videoMATCH (n:it) WHERE n.Display CONTAINS '×2160' RETURN n
+is it support volte video calling by using network Without 3rd party appMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+This mobile support full HD videos or notMATCH (n:it) WHERE n.Display CONTAINS '1920 ×1080' RETURN n
+Direct video call...MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+This phone work 2k videos or notMATCH (n:it) WHERE n.Display CONTAINS '2048 ×' RETURN n
+panasonic eluga  ray 700 this phone video calling available  yes or noMATCH (n:this) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i do video call without internet connection by this phoneMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we chat by videocalling without use of headphone on this mobileMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling without any special applicationMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it record 4K videosMATCH (n:it) WHERE n.Display CONTAINS '×2160' OR n.Display CONTAINS '4096' RETURN n
+does it support 360° videoDont know
+does it have native video calling without any third padty app like whatsapp or IMOMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can I do direct video call without third party appsMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+note 5 is having video calling feature r not if NO then in A1 is having that feature r notMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN nDont know
+video camera doesn't work during direct callDont know
+direct video call no dataMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video call supportMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make video calls without internetMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can we make video calls directly with jio sim.or any other third party app requiredMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can i make video call directlyMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is this provides video call facilityMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support video callingMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does tthis device supports jio video call. because g5s plus does not supports that.MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+it the phone support  direct video callMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support video call through dialerMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it support native videocall through dialer over jio networkMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is moto x4 support direct video calling without using netMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+can i do direct video call through jioMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support default video callMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does it have direct video callingMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+inbuilt video calling with jioMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it have video call optionMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Does this model support VoLTE video call through native dialer (without 3rd party app)MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+direct video call suportMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it support direct video calling facilityMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+video callingfacility in calling menuMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+video call is avilableMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+native video call available or not in x4MATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+is there direct video call in dialerMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we make direct video calls on this phone Like MiMATCH (n:this) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+does it supports video callingMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Is this Mobile has a separate  video call facility(excluding call from any apps) as in samsung or Moto E4 plusMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+it is video calling support from contact viewMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+is native calling ( video calling from sim ) is there for this phoneMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Can we do direct audio & video call for Volte without internet connectionMATCH (n:it) WHERE n.Compatible_networks CONTAINS 'LTE' OR n.Connectivity CONTAINS 'LTE' RETURN n
+Or we need to on mobile data always for doing this callMATCH (n:it) WHERE NOT n.Compatible_networks CONTAINS 'LTE' OR NOT n.Connectivity CONTAINS 'LTE' RETURN n
+front flash availableMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+which type of flash provide yellow or whiteDont know
+what is flash type yellow or whiteDont know
+Front Camera flash available in this phoneMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Is the phone having single or dual led flashlight On Youtube the device is shown having a single flashlight but here on Flipkart it is showing dual led flashlight in the pictures Why is it so
+Can any user tell me how is the front cam pic quality at night with flashDont know
+is this redmi note 5 in front selfi camera Led flash available or notMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+how many note 5 pro are sold on a flash sale 1 dayDont know
+Does it has front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is the front flash working properlyMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+is it flash light for selfieMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Redmi note 5 has front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+does this redmi note 5 have led flash on selfie cameraMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+is there a front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Does it been provided with front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a 
+Front flash presentMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is it work selfie flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+is selfie flash workingMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+it has front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have front led flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have call flash light alertDont know
+is it front camera flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Does this phone have a camera flash for front and back camerasMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Is the front camera flash is moonlight flash or led flashDont know
+When phone will come front flashlight will burnDont know
+is it have selfie flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+why the rear camera flash is defectiveDont know
+is the back flash light is lighted like other smartphoneMATCH (a:it) WHERE (a.Rear_camera IS NOT NULL) AND a.Rear_camera CONTAINS 'flash' RETURN a
+Does it has front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does it have selfie flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Mi note 5 front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+front camera selfie flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+selfi flash is it in redmi 5MATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+does have a front flash  please photo postMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Why can't you guys meet the demands and conduct the flashed sell in a very cunning methode You guys sucks I am waiting for 2 damn long months to get redmi note 5 pro..
+honor 9lite hv front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Redmi note 5 have front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+Does the phone has LED flash on back and front also whether it is a single or dualMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a.Front_camera
+Does this phone have a front flashMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+battery removable or non removablefor this phoneMATCH (a:this) RETURN a.Battery
+can it be charged overnight without causing any harm to the mobile and batteryDont know
+is heating the battery problem in this deviceDont know
+how much time I can spent in mobile in 100% battery with continuing usingDont know
+how does the battery long last if we use it continouslyDont know
+is the battery is better thn li-ion batteryDont know
+its removable mobile batteryMATCH (a:this) RETURN a.Battery
+battery back up when internet usingDont know
+how can capacity of batteryMATCH (a:this) RETURN a.Battery
+How is the battery lifeMATCH (a:this) RETURN a.Battery
+this phone how much battery mAHMATCH (a:this) RETURN a.Battery
+Battery is of how much mahMATCH (a:this) RETURN a.Battery
+will the battery last for 1.5 daysMATCH (a:this) RETURN a.Battery
+how is the battery on heavy useDont know
+how much time does it take battery backupDont know
+battery backup 1 day or more when heavy useDont  know
+friends 5000 mah battery Yes or NoMATCH (a:it) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+hows the battery..MATCH (a:this) RETURN a.Battery
+Does it have a removable batteryMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+how much time does it take to charge full battery from 0-100%Dont know
+friends 5000 mah battery Yes or NoMATCH (a:it) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+hows the battery..MATCH (a:this) RETURN a.Battery
+Does it have a removable batteryMATCH (a:this) RETURN a.Battery
+how much time does it take to charge full battery from 0-100%Dont know
+battery backup time with internetDont know
+I want to know about the camera quality which is 5 mp12mp only so it is good enough for clear pic. and battery backup duration can any one help me plssMATCH (a:this) RETURN a.Batterya.Rear_camera
+How many hours in battery full chargeMATCH (a:this) RETURN a.Battery
+how is this mobile's batteryMATCH (a:this) RETURN a.Battery
+can I remove battery from phoneMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+How long battery lastsDont know
+whats the battery backup of this mobileDont know
+can this Mobile battery  RemovableMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+inclusive of battery meansDont know
+How long battery lastsDont know
+how much time take to full charge batteryDont know
+what's is the battery backup period of this mobileDont know
+including battery or seprateDont know
+Is it have any battery problemMATCH (a:this) RETURN a.Battery
+what to do if the battery of the mobile gets damageDont know
+internet for backup batteryDont know
+Is the battery removable in panasonic eluga ray 700MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+it's mobile battery attached yes or noMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+What this battery backup is goodDont know
+Is the mobile battery is removableMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+removebale battery or non removable battaryMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+where i can see that battery is 5000 amhMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS '5000' RETURN a
+Does always data on how many days long battery will be stay without chargingDont know
+inbuilt /removeble batteryMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+What is this phone battery status and timeMATCH (a:this) RETURN a.Battery
+How much time to battery 100% chargeDont know
+There is any problem with 5000mah battery it was blast like miDont know
+what is the battery life capacityMATCH (a:this) RETURN a.Battery
+If battery is charged 100% then how much time it takes to dischargeDont know
+How many hours continue using net then battery backupDont know
+is battery is in built in hand setMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'non-removable' RETURN a
+is it possible to change batteryMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+battery is remavable or not.MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+how many hours the battery capacity will be there exactlyDont know
+how many time battery backup with internet usedDont know
+in comparison of this phone vs moto e4 plus which i get better in all factors including camera  processin ram battery etc. more
+is the battery removable of panasonic eluga ray 700MATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+if the battery have any issues how can i changeDont know
+how many hours battery last continuos with net on without net offDont know
+battery backup time 10 hoursDont know
+does it have poklumer battery or lithiom ion batteryMATCH (a:this) RETURN a.Battery
+Dose it have remove battery or notMATCH (a:this) WHERE (a.Battery IS NOT NULL) AND a.Battery CONTAINS 'removable' RETURN a
+Which one is good lithyum ion or lithyum polymer batteryDont know
+how many hours does the battery  take to charge from 0 to100Dont know
+how was its battery backup and how much time its lasting if i use itDont know
+How about the battery usageDont know
+which camera portrait mode in redmi note 5 mobileMATCH (a:it) RETURN a.Front_camera
+which phone is best for playing games and for camera redmi not4 or radmi not 5MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera 
+does this redmi note 5 have led flash on selfie cameraMATCH (a:this) WHERE (a.Front_camera IS NOT NULL) AND a.Front_camera CONTAINS 'flash' RETURN a
+its camera is better than honor 9 liteMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+camera is same has mi 5A and note 5 is there is a differenceMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+what is a difference between in camera of note 4  and note 5MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+redmi note 5 vs honor 9 lite camera...which one has best.MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+does it is a perfect mobile and have camera qualityMATCH (a:it) RETURN a.Front_camera
+which phone is better in front camera moto e4+ /moto g4+MATCH (a:it1) MATCH (b:it2) RETURN a.Front_camerab.Front_camera
+does it have good cameraMATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+camera wise which is better this or moto e4 plusMATCH (a:this) MATCH (b:it) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+how are front and back cameras image qualityMATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+is rear camera is betterMATCH (a:it) RETURN a.Rear_camera
+what type of camera puality of this phoneMATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+does the back camera pictures are clarityMATCH (a:it) RETURN a.Rear_camera
+Is it really not working camera clearlyMATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+does it have a dual cameraMATCH (a:it) WHERE (a.Front_camera IS NOT NULL) AND (a.Rear_camera IS NOT NULL) RETURN a
+how is front cameraMATCH (a:it) RETURN a.Front_camera
+is that camera better than mi A1 cameraMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera  
+how are front and back camera. is it fine or not..MATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+which one is the best camera quality letv 1s or panasonic eluga ray 700MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+Is its camera really 13mp.MATCH (a:this) WHERE a.Front_camera CONTAINS '13' a.Rear_camera CONTAINS '13' RETURN a
+does this phone have front camera mirror mode selfieMATCH (a:this) WHERE (a.Front_camera IS NOT NULL) RETURN a
+how is front camera clearityMATCH (a:this) RETURN a.Front_camera
+which is camera best panasonic ray 500 or lenovo k6 powerMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+how is its both front and back camera pixle qualityMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+panasonic eluga ray 700 rear camera clear photo yes or noMATCH (a:it) RETURN a.Rear_camera
+how is its camera clarity both front and back camMATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+what about the picture quality of front camera & sound qualityMATCH (a:it) RETURN a.Front_cameraa.Sound
+Which one best camera mi a1 note 5 proMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera  
+does it support dual cameraMATCH (a:it) WHERE a.Front_camera IS NOT NULL AND a.Rear_camera IS NOT NULL RETURN a 
+camera qulity better then the redmi note 4 yes or noMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+Which is better redmi note 5 or moto g5 s plus In cameraMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+does it's have bokeh in front cameraMATCH (a:it) RETURN a.Front_camera
+which phone have best camera in miA1 or redmi note 5pro.MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+Which phone is getter honor 9 lite or redmi note 5 as compared to cameraMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+camera difference between mi note 5 and mi a1MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+isnt the front camera should be 20mp how it is only 5mpMATCH (a:it) RETURN a.Front_camera
+Which camera is better; Redmi Note 4 or Redmi Note 5MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+which front camera is good honor 9lite or  note 5MATCH (a:it1) MATCH (b:it2) RETURN a.Front_camerab.Front_camera
+what r the camera featuresMATCH (a:it) RETURN a.Front_cameraa.Rear_camera
+mi note5 v/s vivo5s:which rear camera is betterMATCH (a:it1) MATCH (b:it2) RETURN a.Rear_camerab.Rear_camera
+mi note 5 back camera megapixelMATCH (a:it) RETURN a.Rear_camera
+which camera is better samsung j7 max and mi note 5..MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+Does this phone have the feature of dual cameraMATCH (a:it) WHERE a.Front_camera IS NOT NULL AND a.Rear_camera IS NOT NULL RETURN a 
+which phones camera is better Iphone SE or Redmi note 5MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+camera quality wise which one is better Redmi 5A or this Redmi Note 5MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+does it have dual rear cameraMATCH (a:it) RETURN a.Rear_camera
+How good is the rare cameraMATCH (a:it) RETURN a.Rear_camera
+which mobile have better camera Redmi note3 (16 MP) or Note 5(12 MP)MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+which camera best redmi note 5 or redmi 4MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+Sefie camera is good or notMATCH (a:it) RETURN a.Front_camera
+What is the camera quality of Redmi Note 5 from Oppo F1MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+what about front camera is it better than samsungMATCH (a:it1) MATCH (b:it2) RETURN a.Front_camerab.Front_camera
+its camera and is all functions are better than redmi note4MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+which camera is better .mi note 5 or mi note4MATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
+which camera is best redmi note 5 vs redmi note 5 proMATCH (a:it1) MATCH (b:it2) RETURN a.Front_cameraa.Rear_camerab.Front_camerab.Rear_camera
